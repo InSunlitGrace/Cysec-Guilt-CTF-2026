@@ -1,10 +1,4 @@
 #!/usr/bin/env python3
-"""
-ZWSP Steganography Decoder - Distance Method
-Usage: python3 solve.py [transcript_file]
-If no file is given, defaults to 'transcript.txt'
-"""
-
 import sys
 
 def decode(filename):
@@ -12,13 +6,9 @@ def decode(filename):
         text = f.read()
     zwsp = '\u200b'
     
-    # Find all indices of ZWSP
     indices = [i for i, c in enumerate(text) if c == zwsp]
-    
-    # First character: distance from start of file to first ZWSP
     flag_chars = [chr(indices[0])]
     
-    # Subsequent characters: distance between consecutive ZWSPs minus 1
     for i in range(len(indices) - 1): 
         flag_chars.append(chr(indices[i+1] - indices[i] - 1))
     

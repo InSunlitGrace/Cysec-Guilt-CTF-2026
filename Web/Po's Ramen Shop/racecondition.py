@@ -1,13 +1,11 @@
 import requests
 import threading
 
-BASE_URL = "http://10.21.232.223:48209/"  # fill in from "Start Instance"
-
+BASE_URL = "http://10.21.232.223:48209/"
 session = requests.Session()
 
-# Prime the session/cookie first
-session.get(f"{BASE_URL}/")
 
+session.get(f"{BASE_URL}/")
 def redeem():
     try:
         r = session.post(f"{BASE_URL}/api/redeem", json={"code": "WELCOME50"})
@@ -21,10 +19,8 @@ for t in threads:
 for t in threads:
     t.join()
 
-# Check balance
 r = session.get(f"{BASE_URL}/api/balance")
 print("Balance:", r.json())
-
 
 r = session.post(f"{BASE_URL}/api/buy_ramen")
 print(r.json())

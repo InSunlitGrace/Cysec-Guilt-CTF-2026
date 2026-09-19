@@ -1,33 +1,10 @@
 #!/usr/bin/env python3
-"""
-Solve for "Monty Python's Flying Casino".
 
-Vulnerability: sign_amount(amount) = (secret*G * H(amount)).x(), where
-H(amount) = bytes_to_long(f"money {amount}".encode()) is PUBLIC and known
-to us for any amount we choose. This is a homomorphic MAC in H(amount).
-
-The game only signs the *current wallet value* (option 4), but wallet moves
-by exactly +-1 per coin flip (bet=1), so we can steer it a couple of steps
-and collect two signatures for two amounts x1, x1p whose H() values are
-coprime. Bezout's identity then lets us recover Q = secret*G directly
-(no discrete log, no curve-order computation needed):
-
-    a*m1 + b*m1p = 1   =>   a*(Q*m1) + b*(Q*m1p) = Q
-
-With Q in hand we can forge a valid signature for any amount, including
-one greater than Casino.win, and claim the flag.
-
-Usage:
-    python3 solve.py               # spawn ./chal.py locally
-    python3 solve.py HOST PORT     # connect to a remote instance
-"""
 import sys
 import math
-from pwn import * # pip install pwntools
-
+from pwn import * 
 context.log_level = 'info'
 
-# ---- curve / MAC parameters, copied from casino.py ----
 N  = 0xDB02EB1DDCDB0798F63CA143C24EE00240F4430E724843BAC31E4A764BA05DF3
 pX = 0x35495D877123DB4181BA781D843E07194FE8B707FB0C70E095636A54F68398BE
 pY = 0xA11AF18E9EDC908ABE6C97D1C6964C9147855889F44F749902BD7069206899C6
@@ -37,8 +14,6 @@ WIN = int.from_bytes(b"You've been pwned", "big")
 def H(amount):
     return int.from_bytes(f"money {amount}".encode(), "big")
 
-
-# ---- minimal pure-python short Weierstrass EC arithmetic ----
 class Curve:
     def __init__(self, p, a, b):
         self.p, self.a, self.b = p, a, b
@@ -104,7 +79,6 @@ def sqrt_mod_p3mod4(a, p):
     r = pow(a, (p + 1) // 4, p)
     return r if (r * r - a) % p == 0 else None
 
-
 def lift(curve, x):
     rhs = (x ** 3 + curve.a * x + curve.b) % curve.p
     y = sqrt_mod_p3mod4(rhs, curve.p)
@@ -112,23 +86,18 @@ def lift(curve, x):
         return None
     return (Pt(curve, x, y), Pt(curve, x, (-y) % curve.p))
 
-
 def egcd(a, b):
     if b == 0:
         return (a, 1, 0)
     g, x, y = egcd(b, a % b)
     return (g, y, x - (a // b) * y)
 
-
 curve = Curve(N, 1, 4)
 G = Pt(curve, pX, pY)
 
-
-# ---- interaction helpers ----
 def menu_choice(io, n):
     io.recvuntil(b"6. Exit\n")
     io.sendline(str(n).encode())
-
 
 def flip_coin_once(io):
     menu_choice(io, 1)
@@ -139,7 +108,6 @@ def flip_coin_once(io):
     io.recvline()  # win/lose message
     io.recvline()  # wallet total line
 
-
 def convert_chips(io):
     menu_choice(io, 4)
     io.recvuntil(b"summon thee code\n")
@@ -147,7 +115,6 @@ def convert_chips(io):
     line = io.recvline().decode()
     amount = int(line.split(":")[1].strip())
     return amount, code
-
 
 def claim(io, amount, code):
     menu_choice(io, 5)
@@ -164,23 +131,18 @@ def main():
     else:
         io = process(["python3", "chal.py"])
 
-    # Step 1: sign the starting wallet value as-is.
     x1, S1 = convert_chips(io)
     log.info(f"signed x1={x1} -> {S1}")
-
-    # Step 2: nudge wallet by exactly one coin flip, sign again.
     flip_coin_once(io)
     x1p, S1p = convert_chips(io)
     log.info(f"signed x1p={x1p} -> {S1p}")
-
     m1, m1p = H(x1), H(x1p)
     g, a, b = egcd(m1, m1p)
     log.info(f"gcd(m1, m1p) = {g}")
-    assert g == 1, "unlucky coprimality, rerun (or grind one more distinct value)"
-
+    assert g == 1, "unlucky coprimality"
     R1_opts = lift(curve, int(S1, 16))
     R1p_opts = lift(curve, int(S1p, 16))
-    assert R1_opts and R1p_opts, "point lift failed (x not on curve?)"
+    assert R1_opts and R1p_opts, "point lift failed"
 
     Q = None
     for R1 in R1_opts:
@@ -190,9 +152,7 @@ def main():
                 continue
             chk1 = cand * m1
             if chk1.is_inf() or format(chk1.x, "x").rjust(len(S1), "0") != S1.rjust(len(S1), "0"):
-                # normalize hex length like long_to_bytes(...).hex() would
                 pass
-            # simplest robust check: recompute hex the same way the server does
             def to_hex(pt):
                 if pt.is_inf():
                     return None
@@ -204,10 +164,8 @@ def main():
         if Q:
             break
 
-    assert Q is not None, "failed to recover Q -- check assumptions"
-    log.success("recovered Q = secret*G (up to sign, doesn't matter)")
-
-    # Step 3: forge a signature for an amount that beats Casino.win
+    assert Q is not None, "failed to recover Q"
+    log.success("recovered Q")
     amount2 = WIN + 1
     m2 = H(amount2)
     forged = Q * m2

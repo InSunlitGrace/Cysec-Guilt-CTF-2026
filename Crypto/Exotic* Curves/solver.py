@@ -1,10 +1,4 @@
 #!/usr/bin/env python3
-"""
-Solve 'Exotic Curves': the group law is multiplication in F_p[sqrt(D)],
-which (since D is a QNR mod p) is actually the norm-1 torus of F_p^2,
-a group of order p+1 -- much weaker than a real elliptic curve.
-"""
-
 import random
 from math import isqrt
 from hashlib import sha1
@@ -13,7 +7,6 @@ from sympy.ntheory.modular import crt
 from Crypto.Cipher import AES
 from Crypto.Util.Padding import unpad
 
-# ---- challenge parameters ----
 p = 106267532015697168520337191172088148412515620576161290874946589402878151571249
 D = 42233242539448005099475028269993990446352013294366498148311505626717263001612
 G = (102048330668061011078177084521527399007542737797660957136363503399801919446230,
@@ -25,7 +18,6 @@ B = (259690292283407877969275479515521928856416028295542213158188753776408144040
 IV_HEX = "90ebd72eb142152246c7ed29d09d7f4f"
 CT_HEX  = "4ca3655a9d842a47cc9db587dbcdb36c6f822acd1f2c84ede72473d81b7b6c6bbdcd2b12a7a1999b9c10bb44b4d78153"
 
-# ---- field/group arithmetic: (x,y) represents x + y*sqrt(D) in F_p[sqrt(D)] ----
 def mul(P, Q):
     x1, y1 = P; x2, y2 = Q
     return ((x1*x2 + D*y1*y2) % p, (x1*y2 + x2*y1) % p)
@@ -64,7 +56,7 @@ def bsgs(g, h, order):
 
 def dlog_prime_power(g_full, h_full, q, e):
     order = q**e
-    gamma = power(g_full, q**(e-1))          # order-q element
+    gamma = power(g_full, q**(e-1))          # order q elem
     x = 0
     for k in range(e):
         hh = mul(h_full, inv(power(g_full, x)))
@@ -75,21 +67,15 @@ def dlog_prime_power(g_full, h_full, q, e):
         x += dk * (q**k)
     return x % order
 
-# ---- 1. confirm D is a QNR (ring is a field) ----
-assert pow(D, (p-1)//2, p) == p - 1, "D is a QR -- different attack needed"
+assert pow(D, (p-1)//2, p) == p - 1, "D is QR"
 
-# ---- 2. confirm points have norm 1 (they're in the order p+1 subgroup) ----
 def norm(P): return (P[0]*P[0] - D*P[1]*P[1]) % p
 assert norm(G) == norm(A) == norm(B) == 1
 
 N = p + 1
 
-# ---- 3. factor p+1 ----
-Nfactors = factorint(N)          # {2:1, 3:7, 5:4, 7:3, 11:6, 13:3, 17:1, 19:4,
-                                  #  23:2, 29:4, 31:2, 41:1, 257:1, 468274927:1,
-                                  #  13540745363:1, 547099953729365581:1}
+Nfactors = factorint(N)          
 
-# ---- 4. find G's TRUE order (a smooth divisor of p+1) ----
 def component_order(P, q, e):
     x = power(P, N // (q**e))
     for kk in range(e+1):
@@ -102,7 +88,6 @@ ordG = 1
 for q, e in ordG_factors.items():
     ordG *= q**e
 
-# ---- 5. Pohlig-Hellman: recover n_b = dlog_G(B) mod ordG ----
 residues, moduli = [], []
 for q, e in ordG_factors.items():
     qe = q**e
@@ -115,7 +100,7 @@ for q, e in ordG_factors.items():
 n_b = crt(moduli, residues)[0] % ordG
 assert power(G, n_b) == B
 
-# ---- 6. shared secret + decrypt ----
+
 shared_x = power(A, n_b)[0]
 key = sha1(str(shared_x).encode()).digest()[:16]
 iv = bytes.fromhex(IV_HEX)

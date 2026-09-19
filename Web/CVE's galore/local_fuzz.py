@@ -6,7 +6,7 @@ def render(md):
     except Exception:
         return None
 
-# Regexes that indicate a real HTML injection in the output
+
 raw_tag   = re.compile(r'<\s*(img|svg|iframe|script|a|math|details|video|audio|input|form)\b', re.I)
 raw_quote = re.compile(r'"\s*(?:on\w+\s*=|srcdoc\s*=|style\s*=\s*"[^"]*expression|javascript:)', re.I)
 
@@ -17,42 +17,37 @@ def hits(out):
     # raw " not preceded by &X; entity, followed by onXxx or JS url
     return None
 
-# ---- Structured payload families ----
+
 families = []
 
-# A. every quote/backslash char in title / alt / url / angle-url
 specials = ['"', "'", '\\', '`', '&#34;', '&#39;', '&quot;', '&apos;', '\\"', "\\'"]
 for q in ('"', "'"):
     for s in specials:
-        families.append(f'![x](url {q}a{s}b{q})')          # title
-        families.append(f'![a{s}b](url)')                   # alt
-        families.append(f'![x](url{s})')                    # url
-        families.append(f'![x](<url{s}>)')                  # angle url
-        families.append(f'[x](url {q}a{s}b{q})')            # link title
-        families.append(f'[x](<url{s}>)')                   # angle link url
+        families.append(f'![x](url {q}a{s}b{q})')          #title
+        families.append(f'![a{s}b](url)') #alt
+        families.append(f'![x](url{s})') # url
+        families.append(f'![x](<url{s}>)') # angle url
+        families.append(f'[x](url {q}a{s}b{q})') #linktitle
+        families.append(f'[x](<url{s}>)')  #angle link url
         families.append(f'[r]: url {q}a{s}b{q}\n\n[x][r]')  # ref title
-        families.append(f'[r]: url{s}\n\n[x][r]')           # ref url
+        families.append(f'[r]: url{s}\n\n[x][r]')  # ref url
 
-# B. angle autolinks with every special
 for s in specials + [' ', '\t', '\n']:
     families.append(f'<http://x{s}y>')
     families.append(f'<mailto:x{s}y>')
     families.append(f'<x:y{s}z>')
 
-# C. code span / emphasis inside alt or title
 for inner in ['`"`', '`x"`', '*"*', '**"**', '_"_', '~~"~~']:
     families.append(f'![{inner}](url)')
     families.append(f'![x](url "{inner}")')
     families.append(f'[x](url "{inner}")')
 
-# D. entity double-decode in alt/title/url
 for e in ['&#34;', '&#x22;', '&#0000034;', '&quot;', '&amp;quot;', '&amp;#34;']:
     families.append(f'![x](url "{e}")')
     families.append(f'![{e}](url)')
     families.append(f'![x](url{e})')
     families.append(f'[{e}](url)')
 
-# E. exhaustive 3-char combos in a single context (slower but thorough)
 alphabet = ['"', "'", '`', '\\', '&', '<', '>', 'x', ' ']
 for n in (1, 2, 3):
     for combo in itertools.product(alphabet, repeat=n):
