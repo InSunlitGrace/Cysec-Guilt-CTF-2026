@@ -1,0 +1,5025 @@
+1
+00:00:00,160 --> 00:00:01,270
+
+hello
+
+2
+00:00:01,270 --> 00:00:01,280
+hello
+ 
+
+3
+00:00:01,280 --> 00:00:02,470
+hello
+my name is green and welcome back to
+
+4
+00:00:02,470 --> 00:00:02,480
+my name is green and welcome back to
+ 
+
+5
+00:00:02,480 --> 00:00:05,030
+my name is green and welcome back to
+another episode of hermitcraft and today
+
+6
+00:00:05,030 --> 00:00:05,040
+another episode of hermitcraft and today
+ 
+
+7
+00:00:05,040 --> 00:00:08,470
+another episode of hermitcraft and today
+we are working on sahara again
+
+8
+00:00:08,470 --> 00:00:08,480
+we are working on sahara again
+ 
+
+9
+00:00:08,480 --> 00:00:11,509
+we are working on sahara again
+the build hasn't actually moved very far
+
+10
+00:00:11,509 --> 00:00:11,519
+the build hasn't actually moved very far
+ 
+
+11
+00:00:11,519 --> 00:00:13,830
+the build hasn't actually moved very far
+since the last episode but i'm hoping to
+
+12
+00:00:13,830 --> 00:00:13,840
+since the last episode but i'm hoping to
+ 
+
+13
+00:00:13,840 --> 00:00:16,150
+since the last episode but i'm hoping to
+get a bit of work done the redstone on
+
+14
+00:00:16,150 --> 00:00:16,160
+get a bit of work done the redstone on
+ 
+
+15
+00:00:16,160 --> 00:00:19,429
+get a bit of work done the redstone on
+the other hand has been done for the
+
+16
+00:00:19,429 --> 00:00:19,439
+the other hand has been done for the
+ 
+
+17
+00:00:19,439 --> 00:00:21,029
+the other hand has been done for the
+most part i
+
+18
+00:00:21,029 --> 00:00:21,039
+most part i
+ 
+
+19
+00:00:21,039 --> 00:00:24,310
+most part i
+have to be honest with all of you guys
+
+20
+00:00:24,310 --> 00:00:24,320
+have to be honest with all of you guys
+ 
+
+21
+00:00:24,320 --> 00:00:26,390
+have to be honest with all of you guys
+i'm not entirely sure what all of this
+
+22
+00:00:26,390 --> 00:00:26,400
+i'm not entirely sure what all of this
+ 
+
+23
+00:00:26,400 --> 00:00:28,150
+i'm not entirely sure what all of this
+stuff does
+
+24
+00:00:28,150 --> 00:00:28,160
+stuff does
+ 
+
+25
+00:00:28,160 --> 00:00:30,230
+stuff does
+i think this is where the items are
+
+26
+00:00:30,230 --> 00:00:30,240
+i think this is where the items are
+ 
+
+27
+00:00:30,240 --> 00:00:32,470
+i think this is where the items are
+stored for the the shop so each one of
+
+28
+00:00:32,470 --> 00:00:32,480
+stored for the the shop so each one of
+ 
+
+29
+00:00:32,480 --> 00:00:34,950
+stored for the the shop so each one of
+these little modules is where one of the
+
+30
+00:00:34,950 --> 00:00:34,960
+these little modules is where one of the
+ 
+
+31
+00:00:34,960 --> 00:00:36,950
+these little modules is where one of the
+items so maybe this one takes care of
+
+32
+00:00:36,950 --> 00:00:36,960
+items so maybe this one takes care of
+ 
+
+33
+00:00:36,960 --> 00:00:39,430
+items so maybe this one takes care of
+dirt grass cobble whatever it is we're
+
+34
+00:00:39,430 --> 00:00:39,440
+dirt grass cobble whatever it is we're
+ 
+
+35
+00:00:39,440 --> 00:00:41,990
+dirt grass cobble whatever it is we're
+selling they're in here
+
+36
+00:00:41,990 --> 00:00:42,000
+selling they're in here
+ 
+
+37
+00:00:42,000 --> 00:00:44,229
+selling they're in here
+and then some magic happens and then it
+
+38
+00:00:44,229 --> 00:00:44,239
+and then some magic happens and then it
+ 
+
+39
+00:00:44,239 --> 00:00:46,950
+and then some magic happens and then it
+ends up over by the shop front
+
+40
+00:00:46,950 --> 00:00:46,960
+ends up over by the shop front
+ 
+
+41
+00:00:46,960 --> 00:00:48,229
+ends up over by the shop front
+i'm
+
+42
+00:00:48,229 --> 00:00:48,239
+i'm
+ 
+
+43
+00:00:48,239 --> 00:00:49,670
+i'm
+not really sure
+
+44
+00:00:49,670 --> 00:00:49,680
+not really sure
+ 
+
+45
+00:00:49,680 --> 00:00:50,950
+not really sure
+i'll tell you what i've been doing
+
+46
+00:00:50,950 --> 00:00:50,960
+i'll tell you what i've been doing
+ 
+
+47
+00:00:50,960 --> 00:00:52,549
+i'll tell you what i've been doing
+though i've made a little room with
+
+48
+00:00:52,549 --> 00:00:52,559
+though i've made a little room with
+ 
+
+49
+00:00:52,559 --> 00:00:59,189
+though i've made a little room with
+parrots in so that i can dance
+
+50
+00:00:59,189 --> 00:00:59,199
+
+ 
+
+51
+00:00:59,199 --> 00:01:01,510
+
+yeah those guys were busy doing redstone
+
+52
+00:01:01,510 --> 00:01:01,520
+yeah those guys were busy doing redstone
+ 
+
+53
+00:01:01,520 --> 00:01:02,950
+yeah those guys were busy doing redstone
+and
+
+54
+00:01:02,950 --> 00:01:02,960
+and
+ 
+
+55
+00:01:02,960 --> 00:01:04,229
+and
+this this is
+
+56
+00:01:04,229 --> 00:01:04,239
+this this is
+ 
+
+57
+00:01:04,239 --> 00:01:06,390
+this this is
+this is what the inside of my mind looks
+
+58
+00:01:06,390 --> 00:01:06,400
+this is what the inside of my mind looks
+ 
+
+59
+00:01:06,400 --> 00:01:07,570
+this is what the inside of my mind looks
+like
+
+60
+00:01:07,570 --> 00:01:07,580
+like
+ 
+
+61
+00:01:07,580 --> 00:01:11,270
+like
+[Music]
+
+62
+00:01:11,270 --> 00:01:11,280
+
+ 
+
+63
+00:01:11,280 --> 00:01:12,310
+
+yeah
+
+64
+00:01:12,310 --> 00:01:12,320
+yeah
+ 
+
+65
+00:01:12,320 --> 00:01:13,990
+yeah
+i think we're going to keep this room in
+
+66
+00:01:13,990 --> 00:01:14,000
+i think we're going to keep this room in
+ 
+
+67
+00:01:14,000 --> 00:01:14,500
+i think we're going to keep this room in
+here
+
+68
+00:01:14,500 --> 00:01:14,510
+here
+ 
+
+69
+00:01:14,510 --> 00:01:17,270
+here
+[Laughter]
+
+70
+00:01:17,270 --> 00:01:17,280
+[Laughter]
+ 
+
+71
+00:01:17,280 --> 00:01:19,910
+[Laughter]
+but one thing that has appeared is this
+
+72
+00:01:19,910 --> 00:01:19,920
+but one thing that has appeared is this
+ 
+
+73
+00:01:19,920 --> 00:01:23,429
+but one thing that has appeared is this
+thing up here and it looks like a
+
+74
+00:01:23,429 --> 00:01:23,439
+thing up here and it looks like a
+ 
+
+75
+00:01:23,439 --> 00:01:25,270
+thing up here and it looks like a
+telescope
+
+76
+00:01:25,270 --> 00:01:25,280
+telescope
+ 
+
+77
+00:01:25,280 --> 00:01:27,429
+telescope
+going off into the distance
+
+78
+00:01:27,429 --> 00:01:27,439
+going off into the distance
+ 
+
+79
+00:01:27,439 --> 00:01:29,350
+going off into the distance
+so let's go and take a look at what we
+
+80
+00:01:29,350 --> 00:01:29,360
+so let's go and take a look at what we
+ 
+
+81
+00:01:29,360 --> 00:01:31,429
+so let's go and take a look at what we
+can see
+
+82
+00:01:31,429 --> 00:01:31,439
+can see
+ 
+
+83
+00:01:31,439 --> 00:01:33,270
+can see
+wait is that
+
+84
+00:01:33,270 --> 00:01:33,280
+wait is that
+ 
+
+85
+00:01:33,280 --> 00:01:36,230
+wait is that
+is that poultry man
+
+86
+00:01:36,230 --> 00:01:36,240
+is that poultry man
+ 
+
+87
+00:01:36,240 --> 00:01:38,710
+is that poultry man
+on the beach
+
+88
+00:01:38,710 --> 00:01:38,720
+on the beach
+ 
+
+89
+00:01:38,720 --> 00:01:39,590
+on the beach
+huh
+
+90
+00:01:39,590 --> 00:01:39,600
+huh
+ 
+
+91
+00:01:39,600 --> 00:01:43,749
+huh
+that's weird
+
+92
+00:01:43,749 --> 00:01:43,759
+
+ 
+
+93
+00:01:43,759 --> 00:01:46,230
+
+he's having a barbecue
+
+94
+00:01:46,230 --> 00:01:46,240
+he's having a barbecue
+ 
+
+95
+00:01:46,240 --> 00:01:48,789
+he's having a barbecue
+with his chicken friends
+
+96
+00:01:48,789 --> 00:01:48,799
+with his chicken friends
+ 
+
+97
+00:01:48,799 --> 00:01:51,109
+with his chicken friends
+well at least he's having fun wherever
+
+98
+00:01:51,109 --> 00:01:51,119
+well at least he's having fun wherever
+ 
+
+99
+00:01:51,119 --> 00:01:53,830
+well at least he's having fun wherever
+he is off in the
+
+100
+00:01:53,830 --> 00:01:53,840
+he is off in the
+ 
+
+101
+00:01:53,840 --> 00:01:56,230
+he is off in the
+maybe poultry man left this for me
+
+102
+00:01:56,230 --> 00:01:56,240
+maybe poultry man left this for me
+ 
+
+103
+00:01:56,240 --> 00:01:57,990
+maybe poultry man left this for me
+i think maybe we should check upon him
+
+104
+00:01:57,990 --> 00:01:58,000
+i think maybe we should check upon him
+ 
+
+105
+00:01:58,000 --> 00:02:00,149
+i think maybe we should check upon him
+every now and again see what's going on
+
+106
+00:02:00,149 --> 00:02:00,159
+every now and again see what's going on
+ 
+
+107
+00:02:00,159 --> 00:02:02,069
+every now and again see what's going on
+i guess this is poultry man's way of
+
+108
+00:02:02,069 --> 00:02:02,079
+i guess this is poultry man's way of
+ 
+
+109
+00:02:02,079 --> 00:02:04,630
+i guess this is poultry man's way of
+letting me know that he's a-okay having
+
+110
+00:02:04,630 --> 00:02:04,640
+letting me know that he's a-okay having
+ 
+
+111
+00:02:04,640 --> 00:02:07,429
+letting me know that he's a-okay having
+a great time on some beach far away but
+
+112
+00:02:07,429 --> 00:02:07,439
+a great time on some beach far away but
+ 
+
+113
+00:02:07,439 --> 00:02:09,430
+a great time on some beach far away but
+we have more important things to do than
+
+114
+00:02:09,430 --> 00:02:09,440
+we have more important things to do than
+ 
+
+115
+00:02:09,440 --> 00:02:12,150
+we have more important things to do than
+to worry about what poultry man's up to
+
+116
+00:02:12,150 --> 00:02:12,160
+to worry about what poultry man's up to
+ 
+
+117
+00:02:12,160 --> 00:02:16,470
+to worry about what poultry man's up to
+because this is very empty and seeing as
+
+118
+00:02:16,470 --> 00:02:16,480
+because this is very empty and seeing as
+ 
+
+119
+00:02:16,480 --> 00:02:18,869
+because this is very empty and seeing as
+those modules are now complete
+
+120
+00:02:18,869 --> 00:02:18,879
+those modules are now complete
+ 
+
+121
+00:02:18,879 --> 00:02:21,510
+those modules are now complete
+it kind of falls on me to finish up the
+
+122
+00:02:21,510 --> 00:02:21,520
+it kind of falls on me to finish up the
+ 
+
+123
+00:02:21,520 --> 00:02:24,790
+it kind of falls on me to finish up the
+rest of this build the only problem is
+
+124
+00:02:24,790 --> 00:02:24,800
+rest of this build the only problem is
+ 
+
+125
+00:02:24,800 --> 00:02:26,550
+rest of this build the only problem is
+i'm not really sure what i need to do
+
+126
+00:02:26,550 --> 00:02:26,560
+i'm not really sure what i need to do
+ 
+
+127
+00:02:26,560 --> 00:02:29,430
+i'm not really sure what i need to do
+anymore but we've had some other news
+
+128
+00:02:29,430 --> 00:02:29,440
+anymore but we've had some other news
+ 
+
+129
+00:02:29,440 --> 00:02:32,550
+anymore but we've had some other news
+regarding the jangla so let's head over
+
+130
+00:02:32,550 --> 00:02:32,560
+regarding the jangla so let's head over
+ 
+
+131
+00:02:32,560 --> 00:02:35,750
+regarding the jangla so let's head over
+to baker street and find out
+
+132
+00:02:35,750 --> 00:02:35,760
+to baker street and find out
+ 
+
+133
+00:02:35,760 --> 00:02:37,990
+to baker street and find out
+doc actually messaged me on discord and
+
+134
+00:02:37,990 --> 00:02:38,000
+doc actually messaged me on discord and
+ 
+
+135
+00:02:38,000 --> 00:02:39,990
+doc actually messaged me on discord and
+says there's been a bit of a jangler
+
+136
+00:02:39,990 --> 00:02:40,000
+says there's been a bit of a jangler
+ 
+
+137
+00:02:40,000 --> 00:02:41,670
+says there's been a bit of a jangler
+development so i'm guessing that he's
+
+138
+00:02:41,670 --> 00:02:41,680
+development so i'm guessing that he's
+ 
+
+139
+00:02:41,680 --> 00:02:42,949
+development so i'm guessing that he's
+been over but he said he wanted to meet
+
+140
+00:02:42,949 --> 00:02:42,959
+been over but he said he wanted to meet
+ 
+
+141
+00:02:42,959 --> 00:02:45,750
+been over but he said he wanted to meet
+me at baker street meeting me in my own
+
+142
+00:02:45,750 --> 00:02:45,760
+me at baker street meeting me in my own
+ 
+
+143
+00:02:45,760 --> 00:02:47,589
+me at baker street meeting me in my own
+office is
+
+144
+00:02:47,589 --> 00:02:47,599
+office is
+ 
+
+145
+00:02:47,599 --> 00:02:50,550
+office is
+a little bit rude don't you think anyway
+
+146
+00:02:50,550 --> 00:02:50,560
+a little bit rude don't you think anyway
+ 
+
+147
+00:02:50,560 --> 00:02:52,990
+a little bit rude don't you think anyway
+they should be waiting for me now
+
+148
+00:02:52,990 --> 00:02:53,000
+they should be waiting for me now
+ 
+
+149
+00:02:53,000 --> 00:02:55,670
+they should be waiting for me now
+[Music]
+
+150
+00:02:55,670 --> 00:02:55,680
+[Music]
+ 
+
+151
+00:02:55,680 --> 00:02:59,110
+[Music]
+sherlock yep they're there
+
+152
+00:02:59,110 --> 00:02:59,120
+
+ 
+
+153
+00:02:59,120 --> 00:03:01,589
+
+hello hi oh i'm not sure look hold on
+
+154
+00:03:01,589 --> 00:03:01,599
+hello hi oh i'm not sure look hold on
+ 
+
+155
+00:03:01,599 --> 00:03:03,350
+hello hi oh i'm not sure look hold on
+hold on hold on just you know avert your
+
+156
+00:03:03,350 --> 00:03:03,360
+hold on hold on just you know avert your
+ 
+
+157
+00:03:03,360 --> 00:03:05,589
+hold on hold on just you know avert your
+eyes about your eyes
+
+158
+00:03:05,589 --> 00:03:05,599
+eyes about your eyes
+ 
+
+159
+00:03:05,599 --> 00:03:07,190
+eyes about your eyes
+one second
+
+160
+00:03:07,190 --> 00:03:07,200
+one second
+ 
+
+161
+00:03:07,200 --> 00:03:10,630
+one second
+well hello
+
+162
+00:03:10,630 --> 00:03:10,640
+
+ 
+
+163
+00:03:10,640 --> 00:03:13,509
+
+hello sir back to business dachshund and
+
+164
+00:03:13,509 --> 00:03:13,519
+hello sir back to business dachshund and
+ 
+
+165
+00:03:13,519 --> 00:03:14,790
+hello sir back to business dachshund and
+scooby-doo
+
+166
+00:03:14,790 --> 00:03:14,800
+scooby-doo
+ 
+
+167
+00:03:14,800 --> 00:03:17,509
+scooby-doo
+yes yes yes yes so what's going on
+
+168
+00:03:17,509 --> 00:03:17,519
+yes yes yes yes so what's going on
+ 
+
+169
+00:03:17,519 --> 00:03:18,710
+yes yes yes yes so what's going on
+what's happened what's the development
+
+170
+00:03:18,710 --> 00:03:18,720
+what's happened what's the development
+ 
+
+171
+00:03:18,720 --> 00:03:21,670
+what's happened what's the development
+did he did he fall for the the trap
+
+172
+00:03:21,670 --> 00:03:21,680
+did he did he fall for the the trap
+ 
+
+173
+00:03:21,680 --> 00:03:23,430
+did he did he fall for the the trap
+well we sold
+
+174
+00:03:23,430 --> 00:03:23,440
+well we sold
+ 
+
+175
+00:03:23,440 --> 00:03:25,910
+well we sold
+question is nobody left yeah i'll show
+
+176
+00:03:25,910 --> 00:03:25,920
+question is nobody left yeah i'll show
+ 
+
+177
+00:03:25,920 --> 00:03:27,350
+question is nobody left yeah i'll show
+you come on all right let's go we sold
+
+178
+00:03:27,350 --> 00:03:27,360
+you come on all right let's go we sold
+ 
+
+179
+00:03:27,360 --> 00:03:29,509
+you come on all right let's go we sold
+all right yeah we sold out yeah well but
+
+180
+00:03:29,509 --> 00:03:29,519
+all right yeah we sold out yeah well but
+ 
+
+181
+00:03:29,519 --> 00:03:31,589
+all right yeah we sold out yeah well but
+how do we i mean great now we made
+
+182
+00:03:31,589 --> 00:03:31,599
+how do we i mean great now we made
+ 
+
+183
+00:03:31,599 --> 00:03:32,789
+how do we i mean great now we made
+diamonds still don't know who the
+
+184
+00:03:32,789 --> 00:03:32,799
+diamonds still don't know who the
+ 
+
+185
+00:03:32,799 --> 00:03:35,990
+diamonds still don't know who the
+jungler is i mean good platforms
+
+186
+00:03:35,990 --> 00:03:36,000
+jungler is i mean good platforms
+ 
+
+187
+00:03:36,000 --> 00:03:38,149
+jungler is i mean good platforms
+i mean we've gotten rich but we haven't
+
+188
+00:03:38,149 --> 00:03:38,159
+i mean we've gotten rich but we haven't
+ 
+
+189
+00:03:38,159 --> 00:03:40,070
+i mean we've gotten rich but we haven't
+really solved the crime
+
+190
+00:03:40,070 --> 00:03:40,080
+really solved the crime
+ 
+
+191
+00:03:40,080 --> 00:03:41,830
+really solved the crime
+so we have
+
+192
+00:03:41,830 --> 00:03:41,840
+so we have
+ 
+
+193
+00:03:41,840 --> 00:03:44,149
+so we have
+we have sold the solve the crime
+
+194
+00:03:44,149 --> 00:03:44,159
+we have sold the solve the crime
+ 
+
+195
+00:03:44,159 --> 00:03:45,589
+we have sold the solve the crime
+honestly
+
+196
+00:03:45,589 --> 00:03:45,599
+honestly
+ 
+
+197
+00:03:45,599 --> 00:03:47,990
+honestly
+he took the bait but the diamonds were
+
+198
+00:03:47,990 --> 00:03:48,000
+he took the bait but the diamonds were
+ 
+
+199
+00:03:48,000 --> 00:03:49,910
+he took the bait but the diamonds were
+not what we were after although i i
+
+200
+00:03:49,910 --> 00:03:49,920
+not what we were after although i i
+ 
+
+201
+00:03:49,920 --> 00:03:51,750
+not what we were after although i i
+guess we could share these diamonds um
+
+202
+00:03:51,750 --> 00:03:51,760
+guess we could share these diamonds um
+ 
+
+203
+00:03:51,760 --> 00:03:54,869
+guess we could share these diamonds um
+no actually i'll take the diamonds
+
+204
+00:03:54,869 --> 00:03:54,879
+no actually i'll take the diamonds
+ 
+
+205
+00:03:54,879 --> 00:03:58,789
+no actually i'll take the diamonds
+um anyway uh what we've got here is not
+
+206
+00:03:58,789 --> 00:03:58,799
+um anyway uh what we've got here is not
+ 
+
+207
+00:03:58,799 --> 00:04:01,670
+um anyway uh what we've got here is not
+just 27 diamonds what we have here is
+
+208
+00:04:01,670 --> 00:04:01,680
+just 27 diamonds what we have here is
+ 
+
+209
+00:04:01,680 --> 00:04:03,830
+just 27 diamonds what we have here is
+conclusive evidence
+
+210
+00:04:03,830 --> 00:04:03,840
+conclusive evidence
+ 
+
+211
+00:04:03,840 --> 00:04:07,190
+conclusive evidence
+that i know who the jungler is and i've
+
+212
+00:04:07,190 --> 00:04:07,200
+that i know who the jungler is and i've
+ 
+
+213
+00:04:07,200 --> 00:04:10,149
+that i know who the jungler is and i've
+been suspicious of it ever since we went
+
+214
+00:04:10,149 --> 00:04:10,159
+been suspicious of it ever since we went
+ 
+
+215
+00:04:10,159 --> 00:04:12,630
+been suspicious of it ever since we went
+to the flying cookie i'm going to do a
+
+216
+00:04:12,630 --> 00:04:12,640
+to the flying cookie i'm going to do a
+ 
+
+217
+00:04:12,640 --> 00:04:14,710
+to the flying cookie i'm going to do a
+big reveal for you okay you ready for
+
+218
+00:04:14,710 --> 00:04:14,720
+big reveal for you okay you ready for
+ 
+
+219
+00:04:14,720 --> 00:04:17,270
+big reveal for you okay you ready for
+this we're going to go through all of
+
+220
+00:04:17,270 --> 00:04:17,280
+this we're going to go through all of
+ 
+
+221
+00:04:17,280 --> 00:04:20,550
+this we're going to go through all of
+the clues and hints that have led me to
+
+222
+00:04:20,550 --> 00:04:20,560
+the clues and hints that have led me to
+ 
+
+223
+00:04:20,560 --> 00:04:22,950
+the clues and hints that have led me to
+this conclusion and then i will see what
+
+224
+00:04:22,950 --> 00:04:22,960
+this conclusion and then i will see what
+ 
+
+225
+00:04:22,960 --> 00:04:23,990
+this conclusion and then i will see what
+you think
+
+226
+00:04:23,990 --> 00:04:24,000
+you think
+ 
+
+227
+00:04:24,000 --> 00:04:26,230
+you think
+so let me take us back to the beginning
+
+228
+00:04:26,230 --> 00:04:26,240
+so let me take us back to the beginning
+ 
+
+229
+00:04:26,240 --> 00:04:28,790
+so let me take us back to the beginning
+at the start the jungler returned the
+
+230
+00:04:28,790 --> 00:04:28,800
+at the start the jungler returned the
+ 
+
+231
+00:04:28,800 --> 00:04:31,189
+at the start the jungler returned the
+diamonds which is a good deed which led
+
+232
+00:04:31,189 --> 00:04:31,199
+diamonds which is a good deed which led
+ 
+
+233
+00:04:31,199 --> 00:04:33,510
+diamonds which is a good deed which led
+me to believe that this was a good
+
+234
+00:04:33,510 --> 00:04:33,520
+me to believe that this was a good
+ 
+
+235
+00:04:33,520 --> 00:04:35,350
+me to believe that this was a good
+person at heart
+
+236
+00:04:35,350 --> 00:04:35,360
+person at heart
+ 
+
+237
+00:04:35,360 --> 00:04:38,550
+person at heart
+then that led us to the second jangle
+
+238
+00:04:38,550 --> 00:04:38,560
+then that led us to the second jangle
+ 
+
+239
+00:04:38,560 --> 00:04:40,950
+then that led us to the second jangle
+which was a flying cookie as we all
+
+240
+00:04:40,950 --> 00:04:40,960
+which was a flying cookie as we all
+ 
+
+241
+00:04:40,960 --> 00:04:43,590
+which was a flying cookie as we all
+remember with the red herring of leading
+
+242
+00:04:43,590 --> 00:04:43,600
+remember with the red herring of leading
+ 
+
+243
+00:04:43,600 --> 00:04:46,469
+remember with the red herring of leading
+you to stress what interested me wasn't
+
+244
+00:04:46,469 --> 00:04:46,479
+you to stress what interested me wasn't
+ 
+
+245
+00:04:46,479 --> 00:04:47,510
+you to stress what interested me wasn't
+actually
+
+246
+00:04:47,510 --> 00:04:47,520
+actually
+ 
+
+247
+00:04:47,520 --> 00:04:50,230
+actually
+the riddle or anything like that it was
+
+248
+00:04:50,230 --> 00:04:50,240
+the riddle or anything like that it was
+ 
+
+249
+00:04:50,240 --> 00:04:51,909
+the riddle or anything like that it was
+the way that the cookie was built it
+
+250
+00:04:51,909 --> 00:04:51,919
+the way that the cookie was built it
+ 
+
+251
+00:04:51,919 --> 00:04:55,590
+the way that the cookie was built it
+used so many slabs and staircases really
+
+252
+00:04:55,590 --> 00:04:55,600
+used so many slabs and staircases really
+ 
+
+253
+00:04:55,600 --> 00:04:57,909
+used so many slabs and staircases really
+really well that was a beautiful flying
+
+254
+00:04:57,909 --> 00:04:57,919
+really well that was a beautiful flying
+ 
+
+255
+00:04:57,919 --> 00:05:01,189
+really well that was a beautiful flying
+cookie and it's not the same style that
+
+256
+00:05:01,189 --> 00:05:01,199
+cookie and it's not the same style that
+ 
+
+257
+00:05:01,199 --> 00:05:02,950
+cookie and it's not the same style that
+stress would use
+
+258
+00:05:02,950 --> 00:05:02,960
+stress would use
+ 
+
+259
+00:05:02,960 --> 00:05:05,510
+stress would use
+but it was well lit which threw me off a
+
+260
+00:05:05,510 --> 00:05:05,520
+but it was well lit which threw me off a
+ 
+
+261
+00:05:05,520 --> 00:05:06,710
+but it was well lit which threw me off a
+little bit
+
+262
+00:05:06,710 --> 00:05:06,720
+little bit
+ 
+
+263
+00:05:06,720 --> 00:05:08,070
+little bit
+but then
+
+264
+00:05:08,070 --> 00:05:08,080
+but then
+ 
+
+265
+00:05:08,080 --> 00:05:09,990
+but then
+we had another jangle the jungler shop
+
+266
+00:05:09,990 --> 00:05:10,000
+we had another jangle the jungler shop
+ 
+
+267
+00:05:10,000 --> 00:05:14,070
+we had another jangle the jungler shop
+appeared and he left a clue in my office
+
+268
+00:05:14,070 --> 00:05:14,080
+appeared and he left a clue in my office
+ 
+
+269
+00:05:14,080 --> 00:05:17,350
+appeared and he left a clue in my office
+with a peter pan reference by the exit
+
+270
+00:05:17,350 --> 00:05:17,360
+with a peter pan reference by the exit
+ 
+
+271
+00:05:17,360 --> 00:05:19,990
+with a peter pan reference by the exit
+yeah that was hilarious potentially
+
+272
+00:05:19,990 --> 00:05:20,000
+yeah that was hilarious potentially
+ 
+
+273
+00:05:20,000 --> 00:05:21,749
+yeah that was hilarious potentially
+a disney fan
+
+274
+00:05:21,749 --> 00:05:21,759
+a disney fan
+ 
+
+275
+00:05:21,759 --> 00:05:22,870
+a disney fan
+then
+
+276
+00:05:22,870 --> 00:05:22,880
+then
+ 
+
+277
+00:05:22,880 --> 00:05:25,909
+then
+we went down into the jungle shop
+
+278
+00:05:25,909 --> 00:05:25,919
+we went down into the jungle shop
+ 
+
+279
+00:05:25,919 --> 00:05:29,350
+we went down into the jungle shop
+and it was well built this time not well
+
+280
+00:05:29,350 --> 00:05:29,360
+and it was well built this time not well
+ 
+
+281
+00:05:29,360 --> 00:05:33,270
+and it was well built this time not well
+lit and by this point i'm nearly 99 sure
+
+282
+00:05:33,270 --> 00:05:33,280
+lit and by this point i'm nearly 99 sure
+ 
+
+283
+00:05:33,280 --> 00:05:36,150
+lit and by this point i'm nearly 99 sure
+i know who it is but then as you know
+
+284
+00:05:36,150 --> 00:05:36,160
+i know who it is but then as you know
+ 
+
+285
+00:05:36,160 --> 00:05:38,950
+i know who it is but then as you know
+we laid this trap and to prove that this
+
+286
+00:05:38,950 --> 00:05:38,960
+we laid this trap and to prove that this
+ 
+
+287
+00:05:38,960 --> 00:05:41,990
+we laid this trap and to prove that this
+was a trap here's a little clip of us
+
+288
+00:05:41,990 --> 00:05:42,000
+was a trap here's a little clip of us
+ 
+
+289
+00:05:42,000 --> 00:05:43,670
+was a trap here's a little clip of us
+talking about it or at least me telling
+
+290
+00:05:43,670 --> 00:05:43,680
+talking about it or at least me telling
+ 
+
+291
+00:05:43,680 --> 00:05:45,909
+talking about it or at least me telling
+these two what it was
+
+292
+00:05:45,909 --> 00:05:45,919
+these two what it was
+ 
+
+293
+00:05:45,919 --> 00:05:47,830
+these two what it was
+before we make this cookie shop guys i
+
+294
+00:05:47,830 --> 00:05:47,840
+before we make this cookie shop guys i
+ 
+
+295
+00:05:47,840 --> 00:05:49,510
+before we make this cookie shop guys i
+have a theory and it's just that a
+
+296
+00:05:49,510 --> 00:05:49,520
+have a theory and it's just that a
+ 
+
+297
+00:05:49,520 --> 00:05:50,790
+have a theory and it's just that a
+theory
+
+298
+00:05:50,790 --> 00:05:50,800
+theory
+ 
+
+299
+00:05:50,800 --> 00:05:51,670
+theory
+so
+
+300
+00:05:51,670 --> 00:05:51,680
+so
+ 
+
+301
+00:05:51,680 --> 00:05:53,909
+so
+what i'm thinking we do
+
+302
+00:05:53,909 --> 00:05:53,919
+what i'm thinking we do
+ 
+
+303
+00:05:53,919 --> 00:05:56,390
+what i'm thinking we do
+is that we don't put this particular
+
+304
+00:05:56,390 --> 00:05:56,400
+is that we don't put this particular
+ 
+
+305
+00:05:56,400 --> 00:05:57,350
+is that we don't put this particular
+part
+
+306
+00:05:57,350 --> 00:05:57,360
+part
+ 
+
+307
+00:05:57,360 --> 00:06:01,189
+part
+in the video because the jangler is 100
+
+308
+00:06:01,189 --> 00:06:01,199
+in the video because the jangler is 100
+ 
+
+309
+00:06:01,199 --> 00:06:04,550
+in the video because the jangler is 100
+watching our videos yeah yeah definitely
+
+310
+00:06:04,550 --> 00:06:04,560
+watching our videos yeah yeah definitely
+ 
+
+311
+00:06:04,560 --> 00:06:07,510
+watching our videos yeah yeah definitely
+here's the real plan when we make this
+
+312
+00:06:07,510 --> 00:06:07,520
+here's the real plan when we make this
+ 
+
+313
+00:06:07,520 --> 00:06:09,029
+here's the real plan when we make this
+cookie shop
+
+314
+00:06:09,029 --> 00:06:09,039
+cookie shop
+ 
+
+315
+00:06:09,039 --> 00:06:10,790
+cookie shop
+we're going to make it terribly we're
+
+316
+00:06:10,790 --> 00:06:10,800
+we're going to make it terribly we're
+ 
+
+317
+00:06:10,800 --> 00:06:12,870
+we're going to make it terribly we're
+going to make a really awful build
+
+318
+00:06:12,870 --> 00:06:12,880
+going to make a really awful build
+ 
+
+319
+00:06:12,880 --> 00:06:15,510
+going to make a really awful build
+because i have a suspicion who it is and
+
+320
+00:06:15,510 --> 00:06:15,520
+because i have a suspicion who it is and
+ 
+
+321
+00:06:15,520 --> 00:06:17,909
+because i have a suspicion who it is and
+if they change some of the build or the
+
+322
+00:06:17,909 --> 00:06:17,919
+if they change some of the build or the
+ 
+
+323
+00:06:17,919 --> 00:06:20,469
+if they change some of the build or the
+surrounding area i will be
+
+324
+00:06:20,469 --> 00:06:20,479
+surrounding area i will be
+ 
+
+325
+00:06:20,479 --> 00:06:23,189
+surrounding area i will be
+absolutely sure who it is and then we
+
+326
+00:06:23,189 --> 00:06:23,199
+absolutely sure who it is and then we
+ 
+
+327
+00:06:23,199 --> 00:06:23,909
+absolutely sure who it is and then we
+can
+
+328
+00:06:23,909 --> 00:06:23,919
+can
+ 
+
+329
+00:06:23,919 --> 00:06:25,189
+can
+confront them and i'm not going to put
+
+330
+00:06:25,189 --> 00:06:25,199
+confront them and i'm not going to put
+ 
+
+331
+00:06:25,199 --> 00:06:27,110
+confront them and i'm not going to put
+it by you guys because i know that
+
+332
+00:06:27,110 --> 00:06:27,120
+it by you guys because i know that
+ 
+
+333
+00:06:27,120 --> 00:06:28,710
+it by you guys because i know that
+you're just going to go straight for him
+
+334
+00:06:28,710 --> 00:06:28,720
+you're just going to go straight for him
+ 
+
+335
+00:06:28,720 --> 00:06:32,070
+you're just going to go straight for him
+and it might be it might be wrong
+
+336
+00:06:32,070 --> 00:06:32,080
+and it might be it might be wrong
+ 
+
+337
+00:06:32,080 --> 00:06:34,629
+and it might be it might be wrong
+so the whole point was that this cookie
+
+338
+00:06:34,629 --> 00:06:34,639
+so the whole point was that this cookie
+ 
+
+339
+00:06:34,639 --> 00:06:36,790
+so the whole point was that this cookie
+wasn't supposed to be about getting
+
+340
+00:06:36,790 --> 00:06:36,800
+wasn't supposed to be about getting
+ 
+
+341
+00:06:36,800 --> 00:06:38,469
+wasn't supposed to be about getting
+diamonds at all
+
+342
+00:06:38,469 --> 00:06:38,479
+diamonds at all
+ 
+
+343
+00:06:38,479 --> 00:06:40,950
+diamonds at all
+we intentionally well i intentionally
+
+344
+00:06:40,950 --> 00:06:40,960
+we intentionally well i intentionally
+ 
+
+345
+00:06:40,960 --> 00:06:44,150
+we intentionally well i intentionally
+made sure that this lawn here was pretty
+
+346
+00:06:44,150 --> 00:06:44,160
+made sure that this lawn here was pretty
+ 
+
+347
+00:06:44,160 --> 00:06:47,110
+made sure that this lawn here was pretty
+awful because i knew
+
+348
+00:06:47,110 --> 00:06:47,120
+awful because i knew
+ 
+
+349
+00:06:47,120 --> 00:06:50,469
+awful because i knew
+i knew that if good times with scar
+
+350
+00:06:50,469 --> 00:06:50,479
+i knew that if good times with scar
+ 
+
+351
+00:06:50,479 --> 00:06:52,950
+i knew that if good times with scar
+was the jangler and he came here with
+
+352
+00:06:52,950 --> 00:06:52,960
+was the jangler and he came here with
+ 
+
+353
+00:06:52,960 --> 00:06:55,350
+was the jangler and he came here with
+the diamonds he would not be able to
+
+354
+00:06:55,350 --> 00:06:55,360
+the diamonds he would not be able to
+ 
+
+355
+00:06:55,360 --> 00:06:57,909
+the diamonds he would not be able to
+help himself but fix it because we
+
+356
+00:06:57,909 --> 00:06:57,919
+help himself but fix it because we
+ 
+
+357
+00:06:57,919 --> 00:07:00,150
+help himself but fix it because we
+plonked this at cherry on purpose
+
+358
+00:07:00,150 --> 00:07:00,160
+plonked this at cherry on purpose
+ 
+
+359
+00:07:00,160 --> 00:07:03,110
+plonked this at cherry on purpose
+because i believed it was good times
+
+360
+00:07:03,110 --> 00:07:03,120
+because i believed it was good times
+ 
+
+361
+00:07:03,120 --> 00:07:06,950
+because i believed it was good times
+with the jungler
+
+362
+00:07:06,950 --> 00:07:06,960
+
+ 
+
+363
+00:07:06,960 --> 00:07:11,350
+
+elementary scooby-doo you're a genius
+
+364
+00:07:11,350 --> 00:07:11,360
+elementary scooby-doo you're a genius
+ 
+
+365
+00:07:11,360 --> 00:07:12,309
+elementary scooby-doo you're a genius
+yes
+
+366
+00:07:12,309 --> 00:07:12,319
+yes
+ 
+
+367
+00:07:12,319 --> 00:07:14,830
+yes
+i mean that literally just blew my mind
+
+368
+00:07:14,830 --> 00:07:14,840
+i mean that literally just blew my mind
+ 
+
+369
+00:07:14,840 --> 00:07:19,189
+i mean that literally just blew my mind
+yeah that was amazing so i'm now 100
+
+370
+00:07:19,189 --> 00:07:19,199
+yeah that was amazing so i'm now 100
+ 
+
+371
+00:07:19,199 --> 00:07:21,749
+yeah that was amazing so i'm now 100
+sure this is conclusive evidence that it
+
+372
+00:07:21,749 --> 00:07:21,759
+sure this is conclusive evidence that it
+ 
+
+373
+00:07:21,759 --> 00:07:24,390
+sure this is conclusive evidence that it
+was scar the whole time
+
+374
+00:07:24,390 --> 00:07:24,400
+was scar the whole time
+ 
+
+375
+00:07:24,400 --> 00:07:26,870
+was scar the whole time
+and he's been playing us and it makes
+
+376
+00:07:26,870 --> 00:07:26,880
+and he's been playing us and it makes
+ 
+
+377
+00:07:26,880 --> 00:07:28,629
+and he's been playing us and it makes
+sense because scar's such a good guy he
+
+378
+00:07:28,629 --> 00:07:28,639
+sense because scar's such a good guy he
+ 
+
+379
+00:07:28,639 --> 00:07:30,309
+sense because scar's such a good guy he
+wouldn't be doing some bad pranks of
+
+380
+00:07:30,309 --> 00:07:30,319
+wouldn't be doing some bad pranks of
+ 
+
+381
+00:07:30,319 --> 00:07:32,550
+wouldn't be doing some bad pranks of
+course he's going to give cookies to us
+
+382
+00:07:32,550 --> 00:07:32,560
+course he's going to give cookies to us
+ 
+
+383
+00:07:32,560 --> 00:07:35,110
+course he's going to give cookies to us
+yeah and he gave our diamonds back to us
+
+384
+00:07:35,110 --> 00:07:35,120
+yeah and he gave our diamonds back to us
+ 
+
+385
+00:07:35,120 --> 00:07:37,909
+yeah and he gave our diamonds back to us
+and exactly so this is really awkward i
+
+386
+00:07:37,909 --> 00:07:37,919
+and exactly so this is really awkward i
+ 
+
+387
+00:07:37,919 --> 00:07:40,390
+and exactly so this is really awkward i
+think yeah i think he probably just uh
+
+388
+00:07:40,390 --> 00:07:40,400
+think yeah i think he probably just uh
+ 
+
+389
+00:07:40,400 --> 00:07:42,629
+think yeah i think he probably just uh
+he just wanted to return the diamonds
+
+390
+00:07:42,629 --> 00:07:42,639
+he just wanted to return the diamonds
+ 
+
+391
+00:07:42,639 --> 00:07:44,469
+he just wanted to return the diamonds
+yeah i blame you doc
+
+392
+00:07:44,469 --> 00:07:44,479
+yeah i blame you doc
+ 
+
+393
+00:07:44,479 --> 00:07:46,230
+yeah i blame you doc
+wait what me
+
+394
+00:07:46,230 --> 00:07:46,240
+wait what me
+ 
+
+395
+00:07:46,240 --> 00:07:48,629
+wait what me
+what did i do
+
+396
+00:07:48,629 --> 00:07:48,639
+what did i do
+ 
+
+397
+00:07:48,639 --> 00:07:49,749
+what did i do
+exist
+
+398
+00:07:49,749 --> 00:07:49,759
+exist
+ 
+
+399
+00:07:49,759 --> 00:07:51,430
+exist
+well either way now that we know he's
+
+400
+00:07:51,430 --> 00:07:51,440
+well either way now that we know he's
+ 
+
+401
+00:07:51,440 --> 00:07:53,589
+well either way now that we know he's
+the jungler we've definitely got to go
+
+402
+00:07:53,589 --> 00:07:53,599
+the jungler we've definitely got to go
+ 
+
+403
+00:07:53,599 --> 00:07:55,670
+the jungler we've definitely got to go
+and confront him about it but i think i
+
+404
+00:07:55,670 --> 00:07:55,680
+and confront him about it but i think i
+ 
+
+405
+00:07:55,680 --> 00:07:57,510
+and confront him about it but i think i
+think we've got i mean scar's gone
+
+406
+00:07:57,510 --> 00:07:57,520
+think we've got i mean scar's gone
+ 
+
+407
+00:07:57,520 --> 00:08:00,070
+think we've got i mean scar's gone
+massive on this assuming that it is scar
+
+408
+00:08:00,070 --> 00:08:00,080
+massive on this assuming that it is scar
+ 
+
+409
+00:08:00,080 --> 00:08:02,309
+massive on this assuming that it is scar
+he's gone well overboard from what i
+
+410
+00:08:02,309 --> 00:08:02,319
+he's gone well overboard from what i
+ 
+
+411
+00:08:02,319 --> 00:08:04,869
+he's gone well overboard from what i
+could possibly imagine this would become
+
+412
+00:08:04,869 --> 00:08:04,879
+could possibly imagine this would become
+ 
+
+413
+00:08:04,879 --> 00:08:08,070
+could possibly imagine this would become
+so i think we've got to reveal well
+
+414
+00:08:08,070 --> 00:08:08,080
+so i think we've got to reveal well
+ 
+
+415
+00:08:08,080 --> 00:08:10,550
+so i think we've got to reveal well
+confront him in the best way possible so
+
+416
+00:08:10,550 --> 00:08:10,560
+confront him in the best way possible so
+ 
+
+417
+00:08:10,560 --> 00:08:11,990
+confront him in the best way possible so
+i think we should go and do a big
+
+418
+00:08:11,990 --> 00:08:12,000
+i think we should go and do a big
+ 
+
+419
+00:08:12,000 --> 00:08:14,790
+i think we should go and do a big
+jangler build on top of his base in some
+
+420
+00:08:14,790 --> 00:08:14,800
+jangler build on top of his base in some
+ 
+
+421
+00:08:14,800 --> 00:08:16,710
+jangler build on top of his base in some
+kind of way and then just point him in
+
+422
+00:08:16,710 --> 00:08:16,720
+kind of way and then just point him in
+ 
+
+423
+00:08:16,720 --> 00:08:18,390
+kind of way and then just point him in
+the direction and then get get in a call
+
+424
+00:08:18,390 --> 00:08:18,400
+the direction and then get get in a call
+ 
+
+425
+00:08:18,400 --> 00:08:20,070
+the direction and then get get in a call
+with him and just go like we know it's
+
+426
+00:08:20,070 --> 00:08:20,080
+with him and just go like we know it's
+ 
+
+427
+00:08:20,080 --> 00:08:21,510
+with him and just go like we know it's
+you
+
+428
+00:08:21,510 --> 00:08:21,520
+you
+ 
+
+429
+00:08:21,520 --> 00:08:24,469
+you
+dachshund and dogson i think we've done
+
+430
+00:08:24,469 --> 00:08:24,479
+dachshund and dogson i think we've done
+ 
+
+431
+00:08:24,479 --> 00:08:26,790
+dachshund and dogson i think we've done
+it i think this shouts
+
+432
+00:08:26,790 --> 00:08:26,800
+it i think this shouts
+ 
+
+433
+00:08:26,800 --> 00:08:30,469
+it i think this shouts
+jangler if i ever saw a giant yes what
+
+434
+00:08:30,469 --> 00:08:30,479
+jangler if i ever saw a giant yes what
+ 
+
+435
+00:08:30,479 --> 00:08:32,709
+jangler if i ever saw a giant yes what
+do you think it's well by we you mean
+
+436
+00:08:32,709 --> 00:08:32,719
+do you think it's well by we you mean
+ 
+
+437
+00:08:32,719 --> 00:08:33,990
+do you think it's well by we you mean
+you
+
+438
+00:08:33,990 --> 00:08:34,000
+you
+ 
+
+439
+00:08:34,000 --> 00:08:35,509
+you
+yeah okay
+
+440
+00:08:35,509 --> 00:08:35,519
+yeah okay
+ 
+
+441
+00:08:35,519 --> 00:08:37,029
+yeah okay
+these
+
+442
+00:08:37,029 --> 00:08:37,039
+these
+ 
+
+443
+00:08:37,039 --> 00:08:39,829
+these
+ren watched doc made the the concrete
+
+444
+00:08:39,829 --> 00:08:39,839
+ren watched doc made the the concrete
+ 
+
+445
+00:08:39,839 --> 00:08:41,509
+ren watched doc made the the concrete
+for me but
+
+446
+00:08:41,509 --> 00:08:41,519
+for me but
+ 
+
+447
+00:08:41,519 --> 00:08:43,190
+for me but
+i think this is absolutely bright i got
+
+448
+00:08:43,190 --> 00:08:43,200
+i think this is absolutely bright i got
+ 
+
+449
+00:08:43,200 --> 00:08:46,070
+i think this is absolutely bright i got
+a green guy come on man
+
+450
+00:08:46,070 --> 00:08:46,080
+a green guy come on man
+ 
+
+451
+00:08:46,080 --> 00:08:48,710
+a green guy come on man
+the only issue is that it looks great
+
+452
+00:08:48,710 --> 00:08:48,720
+the only issue is that it looks great
+ 
+
+453
+00:08:48,720 --> 00:08:51,030
+the only issue is that it looks great
+from here and i think this is probably
+
+454
+00:08:51,030 --> 00:08:51,040
+from here and i think this is probably
+ 
+
+455
+00:08:51,040 --> 00:08:52,949
+from here and i think this is probably
+where we need to talk to scar because if
+
+456
+00:08:52,949 --> 00:08:52,959
+where we need to talk to scar because if
+ 
+
+457
+00:08:52,959 --> 00:08:53,829
+where we need to talk to scar because if
+you
+
+458
+00:08:53,829 --> 00:08:53,839
+you
+ 
+
+459
+00:08:53,839 --> 00:08:56,070
+you
+fly around
+
+460
+00:08:56,070 --> 00:08:56,080
+fly around
+ 
+
+461
+00:08:56,080 --> 00:08:58,070
+fly around
+it doesn't look that great from the rest
+
+462
+00:08:58,070 --> 00:08:58,080
+it doesn't look that great from the rest
+ 
+
+463
+00:08:58,080 --> 00:09:00,790
+it doesn't look that great from the rest
+of the angles it doesn't look great at
+
+464
+00:09:00,790 --> 00:09:00,800
+of the angles it doesn't look great at
+ 
+
+465
+00:09:00,800 --> 00:09:03,110
+of the angles it doesn't look great at
+all the green one is flopping in the
+
+466
+00:09:03,110 --> 00:09:03,120
+all the green one is flopping in the
+ 
+
+467
+00:09:03,120 --> 00:09:06,630
+all the green one is flopping in the
+kind of wrong direction but
+
+468
+00:09:06,630 --> 00:09:06,640
+kind of wrong direction but
+ 
+
+469
+00:09:06,640 --> 00:09:08,470
+kind of wrong direction but
+there's a strong breeze coming from the
+
+470
+00:09:08,470 --> 00:09:08,480
+there's a strong breeze coming from the
+ 
+
+471
+00:09:08,480 --> 00:09:09,910
+there's a strong breeze coming from the
+back you know
+
+472
+00:09:09,910 --> 00:09:09,920
+back you know
+ 
+
+473
+00:09:09,920 --> 00:09:12,389
+back you know
+yeah
+
+474
+00:09:12,389 --> 00:09:12,399
+
+ 
+
+475
+00:09:12,399 --> 00:09:14,630
+
+so it only looks good from this little
+
+476
+00:09:14,630 --> 00:09:14,640
+so it only looks good from this little
+ 
+
+477
+00:09:14,640 --> 00:09:17,190
+so it only looks good from this little
+nether portal island here but
+
+478
+00:09:17,190 --> 00:09:17,200
+nether portal island here but
+ 
+
+479
+00:09:17,200 --> 00:09:18,870
+nether portal island here but
+it's so difficult to make this sort of
+
+480
+00:09:18,870 --> 00:09:18,880
+it's so difficult to make this sort of
+ 
+
+481
+00:09:18,880 --> 00:09:21,509
+it's so difficult to make this sort of
+thing look good from all angles so yeah
+
+482
+00:09:21,509 --> 00:09:21,519
+thing look good from all angles so yeah
+ 
+
+483
+00:09:21,519 --> 00:09:23,030
+thing look good from all angles so yeah
+as long as we talk to scar from here i
+
+484
+00:09:23,030 --> 00:09:23,040
+as long as we talk to scar from here i
+ 
+
+485
+00:09:23,040 --> 00:09:24,310
+as long as we talk to scar from here i
+think this is great so now we've just
+
+486
+00:09:24,310 --> 00:09:24,320
+think this is great so now we've just
+ 
+
+487
+00:09:24,320 --> 00:09:26,710
+think this is great so now we've just
+got to wait for him to to see it and
+
+488
+00:09:26,710 --> 00:09:26,720
+got to wait for him to to see it and
+ 
+
+489
+00:09:26,720 --> 00:09:28,630
+got to wait for him to to see it and
+then he's going to know what's up like
+
+490
+00:09:28,630 --> 00:09:28,640
+then he's going to know what's up like
+ 
+
+491
+00:09:28,640 --> 00:09:30,710
+then he's going to know what's up like
+like yeah
+
+492
+00:09:30,710 --> 00:09:30,720
+like yeah
+ 
+
+493
+00:09:30,720 --> 00:09:31,590
+like yeah
+oh
+
+494
+00:09:31,590 --> 00:09:31,600
+oh
+ 
+
+495
+00:09:31,600 --> 00:09:36,310
+oh
+there he is
+
+496
+00:09:36,310 --> 00:09:36,320
+
+ 
+
+497
+00:09:36,320 --> 00:09:39,190
+
+oh hey guys uh and dog how are you all
+
+498
+00:09:39,190 --> 00:09:39,200
+oh hey guys uh and dog how are you all
+ 
+
+499
+00:09:39,200 --> 00:09:41,269
+oh hey guys uh and dog how are you all
+doing good yeah it has jelly right here
+
+500
+00:09:41,269 --> 00:09:41,279
+doing good yeah it has jelly right here
+ 
+
+501
+00:09:41,279 --> 00:09:42,949
+doing good yeah it has jelly right here
+yeah i guess
+
+502
+00:09:42,949 --> 00:09:42,959
+yeah i guess
+ 
+
+503
+00:09:42,959 --> 00:09:45,350
+yeah i guess
+have you seen have you seen this yeah
+
+504
+00:09:45,350 --> 00:09:45,360
+have you seen have you seen this yeah
+ 
+
+505
+00:09:45,360 --> 00:09:46,230
+have you seen have you seen this yeah
+yeah
+
+506
+00:09:46,230 --> 00:09:46,240
+yeah
+ 
+
+507
+00:09:46,240 --> 00:09:48,790
+yeah
+jeez i guess the jungler was around huh
+
+508
+00:09:48,790 --> 00:09:48,800
+jeez i guess the jungler was around huh
+ 
+
+509
+00:09:48,800 --> 00:09:51,490
+jeez i guess the jungler was around huh
+it
+
+510
+00:09:51,490 --> 00:09:51,500
+
+ 
+
+511
+00:09:51,500 --> 00:09:57,910
+
+[Music]
+
+512
+00:09:57,910 --> 00:09:57,920
+
+ 
+
+513
+00:09:57,920 --> 00:10:00,470
+
+she busted me she busted me even my own
+
+514
+00:10:00,470 --> 00:10:00,480
+she busted me she busted me even my own
+ 
+
+515
+00:10:00,480 --> 00:10:02,310
+she busted me she busted me even my own
+cat
+
+516
+00:10:02,310 --> 00:10:02,320
+cat
+ 
+
+517
+00:10:02,320 --> 00:10:05,829
+cat
+yeah are you the jangla scar
+
+518
+00:10:05,829 --> 00:10:05,839
+yeah are you the jangla scar
+ 
+
+519
+00:10:05,839 --> 00:10:09,190
+yeah are you the jangla scar
+yes
+
+520
+00:10:09,190 --> 00:10:09,200
+
+ 
+
+521
+00:10:09,200 --> 00:10:11,030
+
+sherlock green you cracked the case
+
+522
+00:10:11,030 --> 00:10:11,040
+sherlock green you cracked the case
+ 
+
+523
+00:10:11,040 --> 00:10:13,509
+sherlock green you cracked the case
+buddy oh we did it
+
+524
+00:10:13,509 --> 00:10:13,519
+buddy oh we did it
+ 
+
+525
+00:10:13,519 --> 00:10:14,630
+buddy oh we did it
+he did it
+
+526
+00:10:14,630 --> 00:10:14,640
+he did it
+ 
+
+527
+00:10:14,640 --> 00:10:16,550
+he did it
+yeah it ain't bad though you know scar i
+
+528
+00:10:16,550 --> 00:10:16,560
+yeah it ain't bad though you know scar i
+ 
+
+529
+00:10:16,560 --> 00:10:18,230
+yeah it ain't bad though you know scar i
+mean honestly bro you should have just
+
+530
+00:10:18,230 --> 00:10:18,240
+mean honestly bro you should have just
+ 
+
+531
+00:10:18,240 --> 00:10:20,949
+mean honestly bro you should have just
+told me you got the diamonds man yeah
+
+532
+00:10:20,949 --> 00:10:20,959
+told me you got the diamonds man yeah
+ 
+
+533
+00:10:20,959 --> 00:10:23,110
+told me you got the diamonds man yeah
+again into this craziness last time that
+
+534
+00:10:23,110 --> 00:10:23,120
+again into this craziness last time that
+ 
+
+535
+00:10:23,120 --> 00:10:25,509
+again into this craziness last time that
+escalated into a war like this time it's
+
+536
+00:10:25,509 --> 00:10:25,519
+escalated into a war like this time it's
+ 
+
+537
+00:10:25,519 --> 00:10:27,990
+escalated into a war like this time it's
+only jester head so come on try to avoid
+
+538
+00:10:27,990 --> 00:10:28,000
+only jester head so come on try to avoid
+ 
+
+539
+00:10:28,000 --> 00:10:30,470
+only jester head so come on try to avoid
+the war doc i was trying to avoid it so
+
+540
+00:10:30,470 --> 00:10:30,480
+the war doc i was trying to avoid it so
+ 
+
+541
+00:10:30,480 --> 00:10:32,150
+the war doc i was trying to avoid it so
+i would like to commend you on your
+
+542
+00:10:32,150 --> 00:10:32,160
+i would like to commend you on your
+ 
+
+543
+00:10:32,160 --> 00:10:35,190
+i would like to commend you on your
+amazing clues they were very smart and
+
+544
+00:10:35,190 --> 00:10:35,200
+amazing clues they were very smart and
+ 
+
+545
+00:10:35,200 --> 00:10:36,230
+amazing clues they were very smart and
+yeah
+
+546
+00:10:36,230 --> 00:10:36,240
+yeah
+ 
+
+547
+00:10:36,240 --> 00:10:38,310
+yeah
+we we struggled but sherlock green
+
+548
+00:10:38,310 --> 00:10:38,320
+we we struggled but sherlock green
+ 
+
+549
+00:10:38,320 --> 00:10:40,310
+we we struggled but sherlock green
+cracked a number of them so wait what
+
+550
+00:10:40,310 --> 00:10:40,320
+cracked a number of them so wait what
+ 
+
+551
+00:10:40,320 --> 00:10:45,350
+cracked a number of them so wait what
+what was it was it actually a typo
+
+552
+00:10:45,350 --> 00:10:45,360
+
+ 
+
+553
+00:10:45,360 --> 00:10:47,110
+
+we all yeah to know
+
+554
+00:10:47,110 --> 00:10:47,120
+we all yeah to know
+ 
+
+555
+00:10:47,120 --> 00:10:49,430
+we all yeah to know
+was this a plan or did you actually just
+
+556
+00:10:49,430 --> 00:10:49,440
+was this a plan or did you actually just
+ 
+
+557
+00:10:49,440 --> 00:10:51,750
+was this a plan or did you actually just
+mess up and write i mean i mean i could
+
+558
+00:10:51,750 --> 00:10:51,760
+mess up and write i mean i mean i could
+ 
+
+559
+00:10:51,760 --> 00:10:53,350
+mess up and write i mean i mean i could
+say it was a plan and feel good about
+
+560
+00:10:53,350 --> 00:10:53,360
+say it was a plan and feel good about
+ 
+
+561
+00:10:53,360 --> 00:10:55,610
+say it was a plan and feel good about
+myself but i would be lying i'd be lying
+
+562
+00:10:55,610 --> 00:10:55,620
+myself but i would be lying i'd be lying
+ 
+
+563
+00:10:55,620 --> 00:10:59,350
+myself but i would be lying i'd be lying
+[Laughter]
+
+564
+00:10:59,350 --> 00:10:59,360
+[Laughter]
+ 
+
+565
+00:10:59,360 --> 00:10:59,670
+[Laughter]
+it nice
+
+566
+00:10:59,670 --> 00:10:59,680
+it nice
+ 
+
+567
+00:10:59,680 --> 00:11:01,430
+it nice
+an awesome adventure though so that
+
+568
+00:11:01,430 --> 00:11:01,440
+an awesome adventure though so that
+ 
+
+569
+00:11:01,440 --> 00:11:03,190
+an awesome adventure though so that
+could be yeah it certainly was i ended
+
+570
+00:11:03,190 --> 00:11:03,200
+could be yeah it certainly was i ended
+ 
+
+571
+00:11:03,200 --> 00:11:04,790
+could be yeah it certainly was i ended
+up did you enjoy the cookies
+
+572
+00:11:04,790 --> 00:11:04,800
+up did you enjoy the cookies
+ 
+
+573
+00:11:04,800 --> 00:11:06,470
+up did you enjoy the cookies
+by the way oh man yeah the cookies were
+
+574
+00:11:06,470 --> 00:11:06,480
+by the way oh man yeah the cookies were
+ 
+
+575
+00:11:06,480 --> 00:11:07,910
+by the way oh man yeah the cookies were
+the best
+
+576
+00:11:07,910 --> 00:11:07,920
+the best
+ 
+
+577
+00:11:07,920 --> 00:11:09,430
+the best
+i've ended up being the scooby-doo of
+
+578
+00:11:09,430 --> 00:11:09,440
+i've ended up being the scooby-doo of
+ 
+
+579
+00:11:09,440 --> 00:11:10,949
+i've ended up being the scooby-doo of
+the group and
+
+580
+00:11:10,949 --> 00:11:10,959
+the group and
+ 
+
+581
+00:11:10,959 --> 00:11:12,630
+the group and
+i think it's only appropriate that we
+
+582
+00:11:12,630 --> 00:11:12,640
+i think it's only appropriate that we
+ 
+
+583
+00:11:12,640 --> 00:11:15,030
+i think it's only appropriate that we
+take the meme to its full closure so all
+
+584
+00:11:15,030 --> 00:11:15,040
+take the meme to its full closure so all
+ 
+
+585
+00:11:15,040 --> 00:11:17,590
+take the meme to its full closure so all
+right yeah could you please put this on
+
+586
+00:11:17,590 --> 00:11:17,600
+right yeah could you please put this on
+ 
+
+587
+00:11:17,600 --> 00:11:19,910
+right yeah could you please put this on
+there you go
+
+588
+00:11:19,910 --> 00:11:19,920
+there you go
+ 
+
+589
+00:11:19,920 --> 00:11:24,069
+there you go
+there we go
+
+590
+00:11:24,069 --> 00:11:24,079
+
+ 
+
+591
+00:11:24,079 --> 00:11:26,069
+
+okay
+
+592
+00:11:26,069 --> 00:11:26,079
+okay
+ 
+
+593
+00:11:26,079 --> 00:11:29,750
+okay
+it wasn't etho the whole time it was
+
+594
+00:11:29,750 --> 00:11:29,760
+it wasn't etho the whole time it was
+ 
+
+595
+00:11:29,760 --> 00:11:32,550
+it wasn't etho the whole time it was
+good times with the jungler what and i
+
+596
+00:11:32,550 --> 00:11:32,560
+good times with the jungler what and i
+ 
+
+597
+00:11:32,560 --> 00:11:33,750
+good times with the jungler what and i
+could have got it could have gone away
+
+598
+00:11:33,750 --> 00:11:33,760
+could have got it could have gone away
+ 
+
+599
+00:11:33,760 --> 00:11:37,910
+could have got it could have gone away
+with it for you meddling kids and dog
+
+600
+00:11:37,910 --> 00:11:37,920
+with it for you meddling kids and dog
+ 
+
+601
+00:11:37,920 --> 00:11:40,590
+with it for you meddling kids and dog
+i'm out of here
+
+602
+00:11:40,590 --> 00:11:40,600
+i'm out of here
+ 
+
+603
+00:11:40,600 --> 00:11:45,190
+i'm out of here
+[Music]
+
+604
+00:11:45,190 --> 00:11:45,200
+
+ 
+
+605
+00:11:45,200 --> 00:11:46,389
+
+yes
+
+606
+00:11:46,389 --> 00:11:46,399
+yes
+ 
+
+607
+00:11:46,399 --> 00:11:48,949
+yes
+well renson and doxon
+
+608
+00:11:48,949 --> 00:11:48,959
+well renson and doxon
+ 
+
+609
+00:11:48,959 --> 00:11:51,110
+well renson and doxon
+we we need to go and settle
+
+610
+00:11:51,110 --> 00:11:51,120
+we we need to go and settle
+ 
+
+611
+00:11:51,120 --> 00:11:53,190
+we we need to go and settle
+payment because this this so this case
+
+612
+00:11:53,190 --> 00:11:53,200
+payment because this this so this case
+ 
+
+613
+00:11:53,200 --> 00:11:55,509
+payment because this this so this case
+has been solved oh
+
+614
+00:11:55,509 --> 00:11:55,519
+has been solved oh
+ 
+
+615
+00:11:55,519 --> 00:11:57,990
+has been solved oh
+there's payment involved
+
+616
+00:11:57,990 --> 00:11:58,000
+there's payment involved
+ 
+
+617
+00:11:58,000 --> 00:11:59,110
+there's payment involved
+well
+
+618
+00:11:59,110 --> 00:11:59,120
+well
+ 
+
+619
+00:11:59,120 --> 00:12:00,069
+well
+yeah
+
+620
+00:12:00,069 --> 00:12:00,079
+yeah
+ 
+
+621
+00:12:00,079 --> 00:12:03,030
+yeah
+i didn't start this shop to just for fun
+
+622
+00:12:03,030 --> 00:12:03,040
+i didn't start this shop to just for fun
+ 
+
+623
+00:12:03,040 --> 00:12:05,190
+i didn't start this shop to just for fun
+diamonds i'm poor i thought we were just
+
+624
+00:12:05,190 --> 00:12:05,200
+diamonds i'm poor i thought we were just
+ 
+
+625
+00:12:05,200 --> 00:12:07,670
+diamonds i'm poor i thought we were just
+hanging out as mates you know just as
+
+626
+00:12:07,670 --> 00:12:07,680
+hanging out as mates you know just as
+ 
+
+627
+00:12:07,680 --> 00:12:08,710
+hanging out as mates you know just as
+buddies
+
+628
+00:12:08,710 --> 00:12:08,720
+buddies
+ 
+
+629
+00:12:08,720 --> 00:12:10,710
+buddies
+man
+
+630
+00:12:10,710 --> 00:12:10,720
+man
+ 
+
+631
+00:12:10,720 --> 00:12:12,230
+man
+how much do you want
+
+632
+00:12:12,230 --> 00:12:12,240
+how much do you want
+ 
+
+633
+00:12:12,240 --> 00:12:14,069
+how much do you want
+how long did it take me to solve this
+
+634
+00:12:14,069 --> 00:12:14,079
+how long did it take me to solve this
+ 
+
+635
+00:12:14,079 --> 00:12:15,030
+how long did it take me to solve this
+case
+
+636
+00:12:15,030 --> 00:12:15,040
+case
+ 
+
+637
+00:12:15,040 --> 00:12:16,710
+case
+a week
+
+638
+00:12:16,710 --> 00:12:16,720
+a week
+ 
+
+639
+00:12:16,720 --> 00:12:17,910
+a week
+yeah
+
+640
+00:12:17,910 --> 00:12:17,920
+yeah
+ 
+
+641
+00:12:17,920 --> 00:12:19,829
+yeah
+um
+
+642
+00:12:19,829 --> 00:12:19,839
+um
+ 
+
+643
+00:12:19,839 --> 00:12:22,069
+um
+64 diamonds so we'll call it eaten you
+
+644
+00:12:22,069 --> 00:12:22,079
+64 diamonds so we'll call it eaten you
+ 
+
+645
+00:12:22,079 --> 00:12:23,590
+64 diamonds so we'll call it eaten you
+got your diamonds back from four
+
+646
+00:12:23,590 --> 00:12:23,600
+got your diamonds back from four
+ 
+
+647
+00:12:23,600 --> 00:12:24,710
+got your diamonds back from four
+diamonds
+
+648
+00:12:24,710 --> 00:12:24,720
+diamonds
+ 
+
+649
+00:12:24,720 --> 00:12:27,190
+diamonds
+here take half of that and then
+
+650
+00:12:27,190 --> 00:12:27,200
+here take half of that and then
+ 
+
+651
+00:12:27,200 --> 00:12:28,949
+here take half of that and then
+rip
+
+652
+00:12:28,949 --> 00:12:28,959
+rip
+ 
+
+653
+00:12:28,959 --> 00:12:31,350
+rip
+it would be worth it though you give it
+
+654
+00:12:31,350 --> 00:12:31,360
+it would be worth it though you give it
+ 
+
+655
+00:12:31,360 --> 00:12:34,389
+it would be worth it though you give it
+giving me fake diamonds what fake giving
+
+656
+00:12:34,389 --> 00:12:34,399
+giving me fake diamonds what fake giving
+ 
+
+657
+00:12:34,399 --> 00:12:36,069
+giving me fake diamonds what fake giving
+me fake sirens
+
+658
+00:12:36,069 --> 00:12:36,079
+me fake sirens
+ 
+
+659
+00:12:36,079 --> 00:12:38,310
+me fake sirens
+you think i can't read look at this
+
+660
+00:12:38,310 --> 00:12:38,320
+you think i can't read look at this
+ 
+
+661
+00:12:38,320 --> 00:12:39,990
+you think i can't read look at this
+diamonds
+
+662
+00:12:39,990 --> 00:12:40,000
+diamonds
+ 
+
+663
+00:12:40,000 --> 00:12:41,110
+diamonds
+that's the more
+
+664
+00:12:41,110 --> 00:12:41,120
+that's the more
+ 
+
+665
+00:12:41,120 --> 00:12:42,310
+that's the more
+yeah
+
+666
+00:12:42,310 --> 00:12:42,320
+yeah
+ 
+
+667
+00:12:42,320 --> 00:12:43,509
+yeah
+i don't
+
+668
+00:12:43,509 --> 00:12:43,519
+i don't
+ 
+
+669
+00:12:43,519 --> 00:12:44,389
+i don't
+i don't
+
+670
+00:12:44,389 --> 00:12:44,399
+i don't
+ 
+
+671
+00:12:44,399 --> 00:12:46,470
+i don't
+i don't encounter it i don't deal in
+
+672
+00:12:46,470 --> 00:12:46,480
+i don't encounter it i don't deal in
+ 
+
+673
+00:12:46,480 --> 00:12:47,990
+i don't encounter it i don't deal in
+counterfeit diamonds you're all done
+
+674
+00:12:47,990 --> 00:12:48,000
+counterfeit diamonds you're all done
+ 
+
+675
+00:12:48,000 --> 00:12:49,990
+counterfeit diamonds you're all done
+thanks green it's been real we'll smell
+
+676
+00:12:49,990 --> 00:12:50,000
+thanks green it's been real we'll smell
+ 
+
+677
+00:12:50,000 --> 00:12:53,910
+thanks green it's been real we'll smell
+you uh
+
+678
+00:12:53,910 --> 00:12:53,920
+
+ 
+
+679
+00:12:53,920 --> 00:12:56,949
+
+give me real diamonds
+
+680
+00:12:56,949 --> 00:12:56,959
+give me real diamonds
+ 
+
+681
+00:12:56,959 --> 00:12:59,509
+give me real diamonds
+i want real diamonds i'll get you
+
+682
+00:12:59,509 --> 00:12:59,519
+i want real diamonds i'll get you
+ 
+
+683
+00:12:59,519 --> 00:13:02,069
+i want real diamonds i'll get you
+don't don't eat don't you even
+
+684
+00:13:02,069 --> 00:13:02,079
+don't don't eat don't you even
+ 
+
+685
+00:13:02,079 --> 00:13:04,470
+don't don't eat don't you even
+you you come back here
+
+686
+00:13:04,470 --> 00:13:04,480
+you you come back here
+ 
+
+687
+00:13:04,480 --> 00:13:06,389
+you you come back here
+it's a good time to pitch my
+
+688
+00:13:06,389 --> 00:13:06,399
+it's a good time to pitch my
+ 
+
+689
+00:13:06,399 --> 00:13:09,590
+it's a good time to pitch my
+you just died shulker box to you
+
+690
+00:13:09,590 --> 00:13:09,600
+you just died shulker box to you
+ 
+
+691
+00:13:09,600 --> 00:13:10,490
+you just died shulker box to you
+oh you oh
+
+692
+00:13:10,490 --> 00:13:10,500
+oh you oh
+ 
+
+693
+00:13:10,500 --> 00:13:12,150
+oh you oh
+[Laughter]
+
+694
+00:13:12,150 --> 00:13:12,160
+[Laughter]
+ 
+
+695
+00:13:12,160 --> 00:13:13,829
+[Laughter]
+seriously though sherlock green thanks
+
+696
+00:13:13,829 --> 00:13:13,839
+seriously though sherlock green thanks
+ 
+
+697
+00:13:13,839 --> 00:13:15,750
+seriously though sherlock green thanks
+my dude for solving the case we were
+
+698
+00:13:15,750 --> 00:13:15,760
+my dude for solving the case we were
+ 
+
+699
+00:13:15,760 --> 00:13:17,110
+my dude for solving the case we were
+just pulling your leg on the diamonds
+
+700
+00:13:17,110 --> 00:13:17,120
+just pulling your leg on the diamonds
+ 
+
+701
+00:13:17,120 --> 00:13:19,030
+just pulling your leg on the diamonds
+man yeah yeah take these
+
+702
+00:13:19,030 --> 00:13:19,040
+man yeah yeah take these
+ 
+
+703
+00:13:19,040 --> 00:13:20,629
+man yeah yeah take these
+fake diamonds back
+
+704
+00:13:20,629 --> 00:13:20,639
+fake diamonds back
+ 
+
+705
+00:13:20,639 --> 00:13:22,470
+fake diamonds back
+also i've got a little bit of a gift for
+
+706
+00:13:22,470 --> 00:13:22,480
+also i've got a little bit of a gift for
+ 
+
+707
+00:13:22,480 --> 00:13:24,470
+also i've got a little bit of a gift for
+you to thank you for the solving the
+
+708
+00:13:24,470 --> 00:13:24,480
+you to thank you for the solving the
+ 
+
+709
+00:13:24,480 --> 00:13:26,230
+you to thank you for the solving the
+crime for us my dude here you go this is
+
+710
+00:13:26,230 --> 00:13:26,240
+crime for us my dude here you go this is
+ 
+
+711
+00:13:26,240 --> 00:13:29,350
+crime for us my dude here you go this is
+for you enjoy
+
+712
+00:13:29,350 --> 00:13:29,360
+for you enjoy
+ 
+
+713
+00:13:29,360 --> 00:13:31,190
+for you enjoy
+you're puffy you're very young oh
+
+714
+00:13:31,190 --> 00:13:31,200
+you're puffy you're very young oh
+ 
+
+715
+00:13:31,200 --> 00:13:33,430
+you're puffy you're very young oh
+pufferfish yeah do within what you will
+
+716
+00:13:33,430 --> 00:13:33,440
+pufferfish yeah do within what you will
+ 
+
+717
+00:13:33,440 --> 00:13:34,870
+pufferfish yeah do within what you will
+i think i should put him in here yeah
+
+718
+00:13:34,870 --> 00:13:34,880
+i think i should put him in here yeah
+ 
+
+719
+00:13:34,880 --> 00:13:37,110
+i think i should put him in here yeah
+that that'll that'll do very nicely
+
+720
+00:13:37,110 --> 00:13:37,120
+that that'll that'll do very nicely
+ 
+
+721
+00:13:37,120 --> 00:13:39,430
+that that'll that'll do very nicely
+he'll be very happy in there but uh yeah
+
+722
+00:13:39,430 --> 00:13:39,440
+he'll be very happy in there but uh yeah
+ 
+
+723
+00:13:39,440 --> 00:13:41,509
+he'll be very happy in there but uh yeah
+that was really fun thank you g for a
+
+724
+00:13:41,509 --> 00:13:41,519
+that was really fun thank you g for a
+ 
+
+725
+00:13:41,519 --> 00:13:44,310
+that was really fun thank you g for a
+wonderful little mystery and uh puffy's
+
+726
+00:13:44,310 --> 00:13:44,320
+wonderful little mystery and uh puffy's
+ 
+
+727
+00:13:44,320 --> 00:13:46,870
+wonderful little mystery and uh puffy's
+now got a wonderful little home nice
+
+728
+00:13:46,870 --> 00:13:46,880
+now got a wonderful little home nice
+ 
+
+729
+00:13:46,880 --> 00:13:49,030
+now got a wonderful little home nice
+the case has been solved good times with
+
+730
+00:13:49,030 --> 00:13:49,040
+the case has been solved good times with
+ 
+
+731
+00:13:49,040 --> 00:13:50,870
+the case has been solved good times with
+scar has been
+
+732
+00:13:50,870 --> 00:13:50,880
+scar has been
+ 
+
+733
+00:13:50,880 --> 00:13:52,550
+scar has been
+outed as the janky
+
+734
+00:13:52,550 --> 00:13:52,560
+outed as the janky
+ 
+
+735
+00:13:52,560 --> 00:13:53,670
+outed as the janky
+jerry do you think he's going to
+
+736
+00:13:53,670 --> 00:13:53,680
+jerry do you think he's going to
+ 
+
+737
+00:13:53,680 --> 00:13:55,990
+jerry do you think he's going to
+continue being the jank probably not
+
+738
+00:13:55,990 --> 00:13:56,000
+continue being the jank probably not
+ 
+
+739
+00:13:56,000 --> 00:14:00,069
+continue being the jank probably not
+right
+
+740
+00:14:00,069 --> 00:14:00,079
+
+ 
+
+741
+00:14:00,079 --> 00:14:01,350
+
+it's not really a secret anymore isn't
+
+742
+00:14:01,350 --> 00:14:01,360
+it's not really a secret anymore isn't
+ 
+
+743
+00:14:01,360 --> 00:14:02,870
+it's not really a secret anymore isn't
+it oh yeah i will tell you you know i
+
+744
+00:14:02,870 --> 00:14:02,880
+it oh yeah i will tell you you know i
+ 
+
+745
+00:14:02,880 --> 00:14:04,710
+it oh yeah i will tell you you know i
+saw zuma going into his shop and
+
+746
+00:14:04,710 --> 00:14:04,720
+saw zuma going into his shop and
+ 
+
+747
+00:14:04,720 --> 00:14:07,030
+saw zuma going into his shop and
+actually placing an order so i guess
+
+748
+00:14:07,030 --> 00:14:07,040
+actually placing an order so i guess
+ 
+
+749
+00:14:07,040 --> 00:14:08,710
+actually placing an order so i guess
+he's in business now
+
+750
+00:14:08,710 --> 00:14:08,720
+he's in business now
+ 
+
+751
+00:14:08,720 --> 00:14:09,750
+he's in business now
+yep
+
+752
+00:14:09,750 --> 00:14:09,760
+yep
+ 
+
+753
+00:14:09,760 --> 00:14:12,150
+yep
+um but yeah gee we're gonna chill out
+
+754
+00:14:12,150 --> 00:14:12,160
+um but yeah gee we're gonna chill out
+ 
+
+755
+00:14:12,160 --> 00:14:13,269
+um but yeah gee we're gonna chill out
+green we're gonna love and leave you
+
+756
+00:14:13,269 --> 00:14:13,279
+green we're gonna love and leave you
+ 
+
+757
+00:14:13,279 --> 00:14:14,949
+green we're gonna love and leave you
+we've got some diamonds to burn my dude
+
+758
+00:14:14,949 --> 00:14:14,959
+we've got some diamonds to burn my dude
+ 
+
+759
+00:14:14,959 --> 00:14:17,030
+we've got some diamonds to burn my dude
+yeah so what why are you burning
+
+760
+00:14:17,030 --> 00:14:17,040
+yeah so what why are you burning
+ 
+
+761
+00:14:17,040 --> 00:14:18,470
+yeah so what why are you burning
+diamonds uh we don't want to talk about
+
+762
+00:14:18,470 --> 00:14:18,480
+diamonds uh we don't want to talk about
+ 
+
+763
+00:14:18,480 --> 00:14:19,430
+diamonds uh we don't want to talk about
+it well
+
+764
+00:14:19,430 --> 00:14:19,440
+it well
+ 
+
+765
+00:14:19,440 --> 00:14:21,670
+it well
+they don't even ask that's
+
+766
+00:14:21,670 --> 00:14:21,680
+they don't even ask that's
+ 
+
+767
+00:14:21,680 --> 00:14:24,150
+they don't even ask that's
+it's just sad bye bye bye
+
+768
+00:14:24,150 --> 00:14:24,160
+it's just sad bye bye bye
+ 
+
+769
+00:14:24,160 --> 00:14:25,350
+it's just sad bye bye bye
+bye
+
+770
+00:14:25,350 --> 00:14:25,360
+bye
+ 
+
+771
+00:14:25,360 --> 00:14:28,230
+bye
+so that pretty much concludes our jangla
+
+772
+00:14:28,230 --> 00:14:28,240
+so that pretty much concludes our jangla
+ 
+
+773
+00:14:28,240 --> 00:14:30,230
+so that pretty much concludes our jangla
+story i'm guessing that scar's
+
+774
+00:14:30,230 --> 00:14:30,240
+story i'm guessing that scar's
+ 
+
+775
+00:14:30,240 --> 00:14:32,470
+story i'm guessing that scar's
+definitely not going to keep this hat
+
+776
+00:14:32,470 --> 00:14:32,480
+definitely not going to keep this hat
+ 
+
+777
+00:14:32,480 --> 00:14:34,629
+definitely not going to keep this hat
+because it does look brilliant actually
+
+778
+00:14:34,629 --> 00:14:34,639
+because it does look brilliant actually
+ 
+
+779
+00:14:34,639 --> 00:14:36,710
+because it does look brilliant actually
+and it's not as bad as i thought from
+
+780
+00:14:36,710 --> 00:14:36,720
+and it's not as bad as i thought from
+ 
+
+781
+00:14:36,720 --> 00:14:38,629
+and it's not as bad as i thought from
+every single angle but there's some like
+
+782
+00:14:38,629 --> 00:14:38,639
+every single angle but there's some like
+ 
+
+783
+00:14:38,639 --> 00:14:40,710
+every single angle but there's some like
+like this one or it just doesn't look
+
+784
+00:14:40,710 --> 00:14:40,720
+like this one or it just doesn't look
+ 
+
+785
+00:14:40,720 --> 00:14:42,069
+like this one or it just doesn't look
+quite right
+
+786
+00:14:42,069 --> 00:14:42,079
+quite right
+ 
+
+787
+00:14:42,079 --> 00:14:44,629
+quite right
+but i think this was a brilliant way
+
+788
+00:14:44,629 --> 00:14:44,639
+but i think this was a brilliant way
+ 
+
+789
+00:14:44,639 --> 00:14:47,189
+but i think this was a brilliant way
+to out him as the jungler and oh my
+
+790
+00:14:47,189 --> 00:14:47,199
+to out him as the jungler and oh my
+ 
+
+791
+00:14:47,199 --> 00:14:49,750
+to out him as the jungler and oh my
+goodness kudos to scarf was such an
+
+792
+00:14:49,750 --> 00:14:49,760
+goodness kudos to scarf was such an
+ 
+
+793
+00:14:49,760 --> 00:14:52,550
+goodness kudos to scarf was such an
+amazing goose chase that he sent us on i
+
+794
+00:14:52,550 --> 00:14:52,560
+amazing goose chase that he sent us on i
+ 
+
+795
+00:14:52,560 --> 00:14:54,550
+amazing goose chase that he sent us on i
+absolutely loved it but now that the
+
+796
+00:14:54,550 --> 00:14:54,560
+absolutely loved it but now that the
+ 
+
+797
+00:14:54,560 --> 00:14:57,590
+absolutely loved it but now that the
+case has closed we need to move on to
+
+798
+00:14:57,590 --> 00:14:57,600
+case has closed we need to move on to
+ 
+
+799
+00:14:57,600 --> 00:14:59,750
+case has closed we need to move on to
+doing other things now hopefully someone
+
+800
+00:14:59,750 --> 00:14:59,760
+doing other things now hopefully someone
+ 
+
+801
+00:14:59,760 --> 00:15:02,230
+doing other things now hopefully someone
+will come up with a new mystery for
+
+802
+00:15:02,230 --> 00:15:02,240
+will come up with a new mystery for
+ 
+
+803
+00:15:02,240 --> 00:15:04,310
+will come up with a new mystery for
+sherlock green to take on but there are
+
+804
+00:15:04,310 --> 00:15:04,320
+sherlock green to take on but there are
+ 
+
+805
+00:15:04,320 --> 00:15:07,350
+sherlock green to take on but there are
+a few other mysteries abound but i have
+
+806
+00:15:07,350 --> 00:15:07,360
+a few other mysteries abound but i have
+ 
+
+807
+00:15:07,360 --> 00:15:09,829
+a few other mysteries abound but i have
+actually been working on the sahara
+
+808
+00:15:09,829 --> 00:15:09,839
+actually been working on the sahara
+ 
+
+809
+00:15:09,839 --> 00:15:13,030
+actually been working on the sahara
+project a bit more and i'm stuck i'm
+
+810
+00:15:13,030 --> 00:15:13,040
+project a bit more and i'm stuck i'm
+ 
+
+811
+00:15:13,040 --> 00:15:16,069
+project a bit more and i'm stuck i'm
+honestly really really stumped as to how
+
+812
+00:15:16,069 --> 00:15:16,079
+honestly really really stumped as to how
+ 
+
+813
+00:15:16,079 --> 00:15:19,030
+honestly really really stumped as to how
+to detail some of this stuff because
+
+814
+00:15:19,030 --> 00:15:19,040
+to detail some of this stuff because
+ 
+
+815
+00:15:19,040 --> 00:15:21,350
+to detail some of this stuff because
+this is looking pretty plain i feel like
+
+816
+00:15:21,350 --> 00:15:21,360
+this is looking pretty plain i feel like
+ 
+
+817
+00:15:21,360 --> 00:15:23,509
+this is looking pretty plain i feel like
+it's moving in the right direction
+
+818
+00:15:23,509 --> 00:15:23,519
+it's moving in the right direction
+ 
+
+819
+00:15:23,519 --> 00:15:25,430
+it's moving in the right direction
+but at the same time
+
+820
+00:15:25,430 --> 00:15:25,440
+but at the same time
+ 
+
+821
+00:15:25,440 --> 00:15:27,670
+but at the same time
+something's not right and sometimes when
+
+822
+00:15:27,670 --> 00:15:27,680
+something's not right and sometimes when
+ 
+
+823
+00:15:27,680 --> 00:15:29,030
+something's not right and sometimes when
+you're building and i do this quite
+
+824
+00:15:29,030 --> 00:15:29,040
+you're building and i do this quite
+ 
+
+825
+00:15:29,040 --> 00:15:31,990
+you're building and i do this quite
+often i just stop building for a minute
+
+826
+00:15:31,990 --> 00:15:32,000
+often i just stop building for a minute
+ 
+
+827
+00:15:32,000 --> 00:15:35,509
+often i just stop building for a minute
+and just sort of let my mind process and
+
+828
+00:15:35,509 --> 00:15:35,519
+and just sort of let my mind process and
+ 
+
+829
+00:15:35,519 --> 00:15:38,470
+and just sort of let my mind process and
+envision and evaluate what is going to
+
+830
+00:15:38,470 --> 00:15:38,480
+envision and evaluate what is going to
+ 
+
+831
+00:15:38,480 --> 00:15:41,509
+envision and evaluate what is going to
+look the best for it sometimes it goes
+
+832
+00:15:41,509 --> 00:15:41,519
+look the best for it sometimes it goes
+ 
+
+833
+00:15:41,519 --> 00:15:43,269
+look the best for it sometimes it goes
+really wrong and i have to redo the
+
+834
+00:15:43,269 --> 00:15:43,279
+really wrong and i have to redo the
+ 
+
+835
+00:15:43,279 --> 00:15:44,550
+really wrong and i have to redo the
+whole thing
+
+836
+00:15:44,550 --> 00:15:44,560
+whole thing
+ 
+
+837
+00:15:44,560 --> 00:15:46,949
+whole thing
+other times i just get it right first
+
+838
+00:15:46,949 --> 00:15:46,959
+other times i just get it right first
+ 
+
+839
+00:15:46,959 --> 00:15:50,150
+other times i just get it right first
+time and those those are my favorite
+
+840
+00:15:50,150 --> 00:15:50,160
+time and those those are my favorite
+ 
+
+841
+00:15:50,160 --> 00:15:53,269
+time and those those are my favorite
+excuse me
+
+842
+00:15:53,269 --> 00:15:53,279
+
+ 
+
+843
+00:15:53,279 --> 00:15:54,550
+
+but
+
+844
+00:15:54,550 --> 00:15:54,560
+but
+ 
+
+845
+00:15:54,560 --> 00:15:56,550
+but
+he wasn't there a second ago i think
+
+846
+00:15:56,550 --> 00:15:56,560
+he wasn't there a second ago i think
+ 
+
+847
+00:15:56,560 --> 00:15:59,430
+he wasn't there a second ago i think
+this side looks particularly plain just
+
+848
+00:15:59,430 --> 00:15:59,440
+this side looks particularly plain just
+ 
+
+849
+00:15:59,440 --> 00:16:02,150
+this side looks particularly plain just
+everything about this part of the build
+
+850
+00:16:02,150 --> 00:16:02,160
+everything about this part of the build
+ 
+
+851
+00:16:02,160 --> 00:16:04,710
+everything about this part of the build
+doesn't really match up with the style
+
+852
+00:16:04,710 --> 00:16:04,720
+doesn't really match up with the style
+ 
+
+853
+00:16:04,720 --> 00:16:06,949
+doesn't really match up with the style
+yet but don't worry i'm going to come up
+
+854
+00:16:06,949 --> 00:16:06,959
+yet but don't worry i'm going to come up
+ 
+
+855
+00:16:06,959 --> 00:16:09,269
+yet but don't worry i'm going to come up
+with something and probably re-tackle it
+
+856
+00:16:09,269 --> 00:16:09,279
+with something and probably re-tackle it
+ 
+
+857
+00:16:09,279 --> 00:16:12,230
+with something and probably re-tackle it
+i was thinking over here for example
+
+858
+00:16:12,230 --> 00:16:12,240
+i was thinking over here for example
+ 
+
+859
+00:16:12,240 --> 00:16:14,550
+i was thinking over here for example
+that we have a little ledge like maybe
+
+860
+00:16:14,550 --> 00:16:14,560
+that we have a little ledge like maybe
+ 
+
+861
+00:16:14,560 --> 00:16:16,470
+that we have a little ledge like maybe
+that there's a tiny little office space
+
+862
+00:16:16,470 --> 00:16:16,480
+that there's a tiny little office space
+ 
+
+863
+00:16:16,480 --> 00:16:18,310
+that there's a tiny little office space
+here like maybe just a small meeting
+
+864
+00:16:18,310 --> 00:16:18,320
+here like maybe just a small meeting
+ 
+
+865
+00:16:18,320 --> 00:16:19,990
+here like maybe just a small meeting
+room with a couple of tables and chairs
+
+866
+00:16:19,990 --> 00:16:20,000
+room with a couple of tables and chairs
+ 
+
+867
+00:16:20,000 --> 00:16:22,310
+room with a couple of tables and chairs
+in here and then you can see over there
+
+868
+00:16:22,310 --> 00:16:22,320
+in here and then you can see over there
+ 
+
+869
+00:16:22,320 --> 00:16:24,550
+in here and then you can see over there
+so maybe like you know me me and this
+
+870
+00:16:24,550 --> 00:16:24,560
+so maybe like you know me me and this
+ 
+
+871
+00:16:24,560 --> 00:16:26,470
+so maybe like you know me me and this
+gal and mumbo we're we're conducting
+
+872
+00:16:26,470 --> 00:16:26,480
+gal and mumbo we're we're conducting
+ 
+
+873
+00:16:26,480 --> 00:16:27,670
+gal and mumbo we're we're conducting
+business here and we can see the
+
+874
+00:16:27,670 --> 00:16:27,680
+business here and we can see the
+ 
+
+875
+00:16:27,680 --> 00:16:29,350
+business here and we can see the
+customers come in and we can we can
+
+876
+00:16:29,350 --> 00:16:29,360
+customers come in and we can we can
+ 
+
+877
+00:16:29,360 --> 00:16:31,829
+customers come in and we can we can
+watch but like i said there's still a
+
+878
+00:16:31,829 --> 00:16:31,839
+watch but like i said there's still a
+ 
+
+879
+00:16:31,839 --> 00:16:33,829
+watch but like i said there's still a
+lot of detailing that needs to be done
+
+880
+00:16:33,829 --> 00:16:33,839
+lot of detailing that needs to be done
+ 
+
+881
+00:16:33,839 --> 00:16:34,949
+lot of detailing that needs to be done
+here
+
+882
+00:16:34,949 --> 00:16:34,959
+here
+ 
+
+883
+00:16:34,959 --> 00:16:36,629
+here
+and then we've got all of our supply
+
+884
+00:16:36,629 --> 00:16:36,639
+and then we've got all of our supply
+ 
+
+885
+00:16:36,639 --> 00:16:38,870
+and then we've got all of our supply
+problems we haven't even got all the
+
+886
+00:16:38,870 --> 00:16:38,880
+problems we haven't even got all the
+ 
+
+887
+00:16:38,880 --> 00:16:40,710
+problems we haven't even got all the
+resources to make everything yet we've
+
+888
+00:16:40,710 --> 00:16:40,720
+resources to make everything yet we've
+ 
+
+889
+00:16:40,720 --> 00:16:43,670
+resources to make everything yet we've
+got farms for a lot of the blocks but
+
+890
+00:16:43,670 --> 00:16:43,680
+got farms for a lot of the blocks but
+ 
+
+891
+00:16:43,680 --> 00:16:45,990
+got farms for a lot of the blocks but
+things like concrete we're just not
+
+892
+00:16:45,990 --> 00:16:46,000
+things like concrete we're just not
+ 
+
+893
+00:16:46,000 --> 00:16:48,150
+things like concrete we're just not
+there yet we need more sand we need more
+
+894
+00:16:48,150 --> 00:16:48,160
+there yet we need more sand we need more
+ 
+
+895
+00:16:48,160 --> 00:16:51,269
+there yet we need more sand we need more
+gravel and we need more dyes and then
+
+896
+00:16:51,269 --> 00:16:51,279
+gravel and we need more dyes and then
+ 
+
+897
+00:16:51,279 --> 00:16:52,870
+gravel and we need more dyes and then
+how we're going to create all the
+
+898
+00:16:52,870 --> 00:16:52,880
+how we're going to create all the
+ 
+
+899
+00:16:52,880 --> 00:16:54,470
+how we're going to create all the
+concrete as well i feel like that's
+
+900
+00:16:54,470 --> 00:16:54,480
+concrete as well i feel like that's
+ 
+
+901
+00:16:54,480 --> 00:16:56,310
+concrete as well i feel like that's
+going to be a big seller but we've got a
+
+902
+00:16:56,310 --> 00:16:56,320
+going to be a big seller but we've got a
+ 
+
+903
+00:16:56,320 --> 00:16:58,629
+going to be a big seller but we've got a
+long way to go now hopefully i can come
+
+904
+00:16:58,629 --> 00:16:58,639
+long way to go now hopefully i can come
+ 
+
+905
+00:16:58,639 --> 00:17:00,550
+long way to go now hopefully i can come
+up with some stuff later on i'm pretty
+
+906
+00:17:00,550 --> 00:17:00,560
+up with some stuff later on i'm pretty
+ 
+
+907
+00:17:00,560 --> 00:17:02,310
+up with some stuff later on i'm pretty
+sure the design will come to me in a few
+
+908
+00:17:02,310 --> 00:17:02,320
+sure the design will come to me in a few
+ 
+
+909
+00:17:02,320 --> 00:17:04,710
+sure the design will come to me in a few
+days and i really really want to move on
+
+910
+00:17:04,710 --> 00:17:04,720
+days and i really really want to move on
+ 
+
+911
+00:17:04,720 --> 00:17:07,029
+days and i really really want to move on
+with sahara faster and faster because i
+
+912
+00:17:07,029 --> 00:17:07,039
+with sahara faster and faster because i
+ 
+
+913
+00:17:07,039 --> 00:17:08,949
+with sahara faster and faster because i
+feel like concorp are definitely up to
+
+914
+00:17:08,949 --> 00:17:08,959
+feel like concorp are definitely up to
+ 
+
+915
+00:17:08,959 --> 00:17:11,029
+feel like concorp are definitely up to
+something and sahara needs to get
+
+916
+00:17:11,029 --> 00:17:11,039
+something and sahara needs to get
+ 
+
+917
+00:17:11,039 --> 00:17:13,829
+something and sahara needs to get
+selling some products very very soon
+
+918
+00:17:13,829 --> 00:17:13,839
+selling some products very very soon
+ 
+
+919
+00:17:13,839 --> 00:17:15,350
+selling some products very very soon
+but actually i thought about it and i
+
+920
+00:17:15,350 --> 00:17:15,360
+but actually i thought about it and i
+ 
+
+921
+00:17:15,360 --> 00:17:17,110
+but actually i thought about it and i
+haven't actually checked my shop in a
+
+922
+00:17:17,110 --> 00:17:17,120
+haven't actually checked my shop in a
+ 
+
+923
+00:17:17,120 --> 00:17:18,630
+haven't actually checked my shop in a
+little while
+
+924
+00:17:18,630 --> 00:17:18,640
+little while
+ 
+
+925
+00:17:18,640 --> 00:17:21,350
+little while
+and i heard that i'd sold out so if
+
+926
+00:17:21,350 --> 00:17:21,360
+and i heard that i'd sold out so if
+ 
+
+927
+00:17:21,360 --> 00:17:24,789
+and i heard that i'd sold out so if
+that's true which it is we have got some
+
+928
+00:17:24,789 --> 00:17:24,799
+that's true which it is we have got some
+ 
+
+929
+00:17:24,799 --> 00:17:27,189
+that's true which it is we have got some
+diamonds finally
+
+930
+00:17:27,189 --> 00:17:27,199
+diamonds finally
+ 
+
+931
+00:17:27,199 --> 00:17:30,549
+diamonds finally
+we've made plenty of diamonds today oh
+
+932
+00:17:30,549 --> 00:17:30,559
+we've made plenty of diamonds today oh
+ 
+
+933
+00:17:30,559 --> 00:17:32,390
+we've made plenty of diamonds today oh
+my goodness
+
+934
+00:17:32,390 --> 00:17:32,400
+my goodness
+ 
+
+935
+00:17:32,400 --> 00:17:34,310
+my goodness
+we've made a stack and a half of
+
+936
+00:17:34,310 --> 00:17:34,320
+we've made a stack and a half of
+ 
+
+937
+00:17:34,320 --> 00:17:37,190
+we've made a stack and a half of
+diamonds in one day that's pretty good
+
+938
+00:17:37,190 --> 00:17:37,200
+diamonds in one day that's pretty good
+ 
+
+939
+00:17:37,200 --> 00:17:39,430
+diamonds in one day that's pretty good
+going and there seems to be a few
+
+940
+00:17:39,430 --> 00:17:39,440
+going and there seems to be a few
+ 
+
+941
+00:17:39,440 --> 00:17:41,990
+going and there seems to be a few
+pickles lying around for some reason
+
+942
+00:17:41,990 --> 00:17:42,000
+pickles lying around for some reason
+ 
+
+943
+00:17:42,000 --> 00:17:43,830
+pickles lying around for some reason
+someone's obviously dropping pickles in
+
+944
+00:17:43,830 --> 00:17:43,840
+someone's obviously dropping pickles in
+ 
+
+945
+00:17:43,840 --> 00:17:45,830
+someone's obviously dropping pickles in
+the shopping district wow there's a real
+
+946
+00:17:45,830 --> 00:17:45,840
+the shopping district wow there's a real
+ 
+
+947
+00:17:45,840 --> 00:17:47,350
+the shopping district wow there's a real
+there's a lot of them
+
+948
+00:17:47,350 --> 00:17:47,360
+there's a lot of them
+ 
+
+949
+00:17:47,360 --> 00:17:50,630
+there's a lot of them
+what the heck
+
+950
+00:17:50,630 --> 00:17:50,640
+
+ 
+
+951
+00:17:50,640 --> 00:17:52,150
+
+someone is
+
+952
+00:17:52,150 --> 00:17:52,160
+someone is
+ 
+
+953
+00:17:52,160 --> 00:17:54,549
+someone is
+they're everywhere someone is dropping a
+
+954
+00:17:54,549 --> 00:17:54,559
+they're everywhere someone is dropping a
+ 
+
+955
+00:17:54,559 --> 00:17:57,669
+they're everywhere someone is dropping a
+lot of pickles is there any more
+
+956
+00:17:57,669 --> 00:17:57,679
+lot of pickles is there any more
+ 
+
+957
+00:17:57,679 --> 00:17:59,669
+lot of pickles is there any more
+there's seriously a lot of pickles going
+
+958
+00:17:59,669 --> 00:17:59,679
+there's seriously a lot of pickles going
+ 
+
+959
+00:17:59,679 --> 00:18:01,909
+there's seriously a lot of pickles going
+on so let's pop the diamonds in here and
+
+960
+00:18:01,909 --> 00:18:01,919
+on so let's pop the diamonds in here and
+ 
+
+961
+00:18:01,919 --> 00:18:04,950
+on so let's pop the diamonds in here and
+we've got nearly four stacks of diamonds
+
+962
+00:18:04,950 --> 00:18:04,960
+we've got nearly four stacks of diamonds
+ 
+
+963
+00:18:04,960 --> 00:18:06,789
+we've got nearly four stacks of diamonds
+this is absolutely brilliant i haven't
+
+964
+00:18:06,789 --> 00:18:06,799
+this is absolutely brilliant i haven't
+ 
+
+965
+00:18:06,799 --> 00:18:08,549
+this is absolutely brilliant i haven't
+been this rich since jeven gave me all
+
+966
+00:18:08,549 --> 00:18:08,559
+been this rich since jeven gave me all
+ 
+
+967
+00:18:08,559 --> 00:18:11,110
+been this rich since jeven gave me all
+of those diamonds but i think that is
+
+968
+00:18:11,110 --> 00:18:11,120
+of those diamonds but i think that is
+ 
+
+969
+00:18:11,120 --> 00:18:13,909
+of those diamonds but i think that is
+all that i have time for today everybody
+
+970
+00:18:13,909 --> 00:18:13,919
+all that i have time for today everybody
+ 
+
+971
+00:18:13,919 --> 00:18:15,510
+all that i have time for today everybody
+uh this video is a little bit shorter
+
+972
+00:18:15,510 --> 00:18:15,520
+uh this video is a little bit shorter
+ 
+
+973
+00:18:15,520 --> 00:18:18,230
+uh this video is a little bit shorter
+than normal but i've got a lot of stuff
+
+974
+00:18:18,230 --> 00:18:18,240
+than normal but i've got a lot of stuff
+ 
+
+975
+00:18:18,240 --> 00:18:20,789
+than normal but i've got a lot of stuff
+to be getting on with i think maybe we
+
+976
+00:18:20,789 --> 00:18:20,799
+to be getting on with i think maybe we
+ 
+
+977
+00:18:20,799 --> 00:18:23,750
+to be getting on with i think maybe we
+should just check in on the old poultry
+
+978
+00:18:23,750 --> 00:18:23,760
+should just check in on the old poultry
+ 
+
+979
+00:18:23,760 --> 00:18:27,350
+should just check in on the old poultry
+man just before we leave
+
+980
+00:18:27,350 --> 00:18:27,360
+man just before we leave
+ 
+
+981
+00:18:27,360 --> 00:18:29,990
+man just before we leave
+so let's head back up into the telescope
+
+982
+00:18:29,990 --> 00:18:30,000
+so let's head back up into the telescope
+ 
+
+983
+00:18:30,000 --> 00:18:37,909
+so let's head back up into the telescope
+and see what he's doing
+
+984
+00:18:37,909 --> 00:18:37,919
+
+ 
+
+985
+00:18:37,919 --> 00:18:40,549
+
+looking out over the ocean it looks like
+
+986
+00:18:40,549 --> 00:18:40,559
+looking out over the ocean it looks like
+ 
+
+987
+00:18:40,559 --> 00:18:42,549
+looking out over the ocean it looks like
+he's having a great time and that's what
+
+988
+00:18:42,549 --> 00:18:42,559
+he's having a great time and that's what
+ 
+
+989
+00:18:42,559 --> 00:18:44,549
+he's having a great time and that's what
+matters so thank you very much for
+
+990
+00:18:44,549 --> 00:18:44,559
+matters so thank you very much for
+ 
+
+991
+00:18:44,559 --> 00:18:47,110
+matters so thank you very much for
+watching everyone as always and i will
+
+992
+00:18:47,110 --> 00:18:47,120
+watching everyone as always and i will
+ 
+
+993
+00:18:47,120 --> 00:18:50,310
+watching everyone as always and i will
+see you in the next video good
+
+994
+00:18:50,310 --> 00:18:50,320
+see you in the next video good
+ 
+
+995
+00:18:50,320 --> 00:18:51,590
+see you in the next video good
+bye
+
+996
+00:18:51,590 --> 00:18:51,600
+bye
+ 
+
+997
+00:18:51,600 --> 00:18:56,950
+bye
+[Music]
+
+998
+00:18:56,950 --> 00:18:56,960
+
+ 
+
+999
+00:18:56,960 --> 00:18:58,549
+
+yeah i bet you thought i was gonna drop
+
+1000
+00:18:58,549 --> 00:18:58,559
+yeah i bet you thought i was gonna drop
+ 
+
+1001
+00:18:58,559 --> 00:19:00,310
+yeah i bet you thought i was gonna drop
+there didn't you huh
+
+1002
+00:19:00,310 --> 00:19:00,320
+there didn't you huh
+ 
+
+1003
+00:19:00,320 --> 00:19:01,909
+there didn't you huh
+predictable
+
+1004
+00:19:01,909 --> 00:19:01,919
+predictable
+ 
+
+1005
+00:19:01,919 --> 00:19:05,160
+predictable
+bye everyone
+
